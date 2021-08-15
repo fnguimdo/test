@@ -94,13 +94,14 @@ You suggest that Google Speech is in fact significantly slower and Google has st
 #### Q10.You are involved in a battle with Microsoft around a virtual assistant opportunity and the decision seems biased towards Microsoft technologies. With this in mind, you want to be very focused on the areas you will compete on. As you prepare your presentation for this client you focus on what three themes?
 
 
-   Microsoft has little to no innovation
-- [ ] - Microsoft does not have a differentiating offering
-   Microsoft architecture is old
-
-Focus on IBM's breadth of Analytical offerings
-Rely heavily on IBM's strong services offerings
-Weave in a strong narrative about IBM's Quantum Computing research and development capabilities and investment
+   -[ ] 
+   - Microsoft has little to no innovation
+   - Microsoft does not have a differentiating offering
+   - Microsoft architecture is old
+- [ ] 
+   - Focus on IBM's breadth of Analytical offerings
+   - Rely heavily on IBM's strong services offerings
+   - Weave in a strong narrative about IBM's Quantum Computing research and development capabilities and investment
 
 Simplified AI tool: Microsoft customers need to understand how to use a multitude of services through writing code.
 Multi-channel approach and voice: Watson Assistant technology helps a client's users through both digital and voice channels.
