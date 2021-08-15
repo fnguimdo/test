@@ -60,28 +60,111 @@ AI models need to be built primarily by leveraging Open Source software to ensur
 
 
 
-#### Q7.
+#### Q7.You are prepping for a client engagement where you've been asked to speak on the topic of AI and how it can help their organization. What is likely one of the challenges the organization will face when thinking about leveraging AI?
+
+
+Organizations need to leverage the Public Cloud AI but only 22% of organizations have moved their workloads to Cloud.
+
+Many organizations today are working in a hybrid work model. AI requires significant teaming and doing so in a hybrid work model can be challenging.
+
+Corporate buy in. Many organizations are still struggling with the value proposition of AI.
+
+Data. 90% of an organizations data is inaccessible, untrusted, or unanalyzed.
 
 
 
-#### Q8.
+#### Q8.AI, Machine Learning (ML), and Deep learning (DL) feel like buzz words these days because you hear about them so often in data strategy discussions. What's the best way to describe the relationship between AI, ML, and DL?
+
+
+AI, ML, and DL are all terms that have the same meaning and therefore can be used interchangeably.
+
+AI is the category term for technology that enables machines to learn and act from data and improve over time. AI includes ML and DL methods.
+
+AI is a subset of ML but is a synonym for DL.
+
+These terms are a hierarchy of features around modern analytics. ML is the top level in this hierarchy, followed by DL, followed by AI.
 
 
 
-#### Q9.
-
-#### Q10.
+#### Q9.You're talking to a client about AI and get into the topic of automation. Someone in the room remarks in front of your sponsor that they see no value in AI as their organization has already deployed automation across their supply chain. How do you explain the value of AI and Automaton?
 
 
-#### Q11.
+The benefits of AI are for specific supply chains only and this is why automating your supply chain feels like you've done all you can with AI
+
+The integration of AI and automation, or intelligent automation, allows organizations to digitize and automate virtually any type of work at scale – whether it is for business automation, IT automation, or automation of AI
+
+If the customer has Automation in place they do not need any AI functionality
+
+AI and automation are the same thing ... so perhaps there's another organization within the enterprise that could benefit from an AI project
+
+#### Q10.The first dimension of trustworthy AI is AI Ethics which are based on IBM's principles for Trust and Transparency. One of these principles describes the purpose of AI. Select the best statement you would use to best describe the purpose of AI to a client.
 
 
-#### Q12.
+The purpose of AI is to begin to automate everything.
+
+The purpose of AI is to augment human intelligence.
+
+The purpose of AI is to deliver value to only a subset of the population.
+
+The purpose of AI is to replace human intelligence.
 
 
-#### Q13.
+#### Q11.Analyst validation can be a powerful sales tool. What award has IDC recently given to IBM's AI portfolio?
 
-#### Q14.
+
+Watson ecosystem growth in 2020 through partners such as Gainsight, Medallia, Veritas, Lexis Nexis, Teladoc, and Ogilvy
+
+Market leader in AI by IDC’s Artificial Intelligence Market for 2020
+
+Recognition for IBM inventors who have consistently led the pack in granted AI patents, receiving more than 2,300 AI patents in 2020 alone
+
+Acknowledgment of the $240M ten year commitment to AI research through the MIT-IBM Watson AI Lab, founded in 2017, as a true industrial-academic collaboration
+
+
+#### Q12.A client is new to AI and tells you they understand what machine learning (ML) is ... machines that learn. But is confused with the term deep learning (DL), and asked you to explain what the word 'deep' means in DL. You tell them that DL is:
+
+
+A subset of machine learning based on artificial neural networks that uses multiple hidden layers to extract features from data.
+
+Learning that goes beyond the operating system (OS) level and actually focuses on kernel development.
+
+Refers to the best practice of always checking and testing your models to ensure they are still accurate.
+
+Learning that took a significant time to train and develop.
+
+
+#### Q13.Without an AI and hybrid cloud strategy that solves issues related to data and infrastructure, security and trust, and strategy and skills... how many companies will fail at their digital transformation plans?
+
+
+56%
+
+87%
+
+27%
+
+73%
+
+#### Q14.You're talking to a client about IBM's Hybrid Cloud strategy and how the Red Hat Open Shift Container Platform (OCP) is at its core. The clients asks you to give them the top 3 things OCP provides them as part of IBM's strategy. You say ...
+
+- [ ] Red Hat OCP delivers lots of value to clients, but the top three are:
+  - Containerization for IBM Cloud only
+  - Single Management view for admin
+  - End to end fault detection
+
+- [ ] Red Hat OCP delivers lots of value to clients, but the top three are:
+  - Full integration into GIT
+  - Seamless 2-Factor Authentication
+  - Ease of Management
+
+- [ ] Red Hat OCP delivers lots of value to clients, but the top three are:
+  - Virtualizes and orchestrates data and apps on any cloud
+  - Delivers repeatability and agility with containerization
+  - Eases management, integration and adaptability
+
+- [ ] Red Hat OCP delivers lots of value to clients, but the top three are:
+  - Works on IBM Cloud only
+  - Command Line Interface (CLI) only
+  - Full integration into GIT
 
 
 #### Q15.
