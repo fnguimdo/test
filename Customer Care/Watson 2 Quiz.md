@@ -109,10 +109,59 @@ You suggest that Google Speech is in fact significantly slower and Google has st
    - IBM protects client data and insight
    - Better features
    - Language Support
-#### Q11.
-#### Q12.
-#### Q13.
-#### Q14.
+#### Q11.You are talking to a client who is resistant to investing in a virtual assistant project because they have a well trained staff of call agents who are resolving issues with leading customer satisfaction Key Performance Indicators (KPIs).  You remember reading a quarterly earnings report for this client where the CEO remarked they have to find ways to lower costs as their supply chain costs rose and this is one of the reasons why profitability fell.  You ensure the client understands that:
+
+
+The average cost of a live agent call is $5 - $7 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can cut your current labor budget targeted at customer service.
+
+
+The average cost of a live agent call is $3 -$5 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can cut your current labor budget targeted at customer service.
+
+The average cost of a live agent call is $5 - $7 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can have those employees focus on higher value customer interactions than basic rote answers.
+
+The average cost of a live agent call is $3 -$5 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can have those employees focus on higher value customer interactions than basic rote answers.
+#### Q12.You are preparing for a visit with a client who is in a highly competitive service industry where delivering outstanding customer care is mandatory. What are the key offerings you will build your presentation around?
+
+- [ ]
+Customer Service
+Agent Assist
+Contact Center Insights
+- [ ]
+NLP
+Cognitive Agent
+Speech to Text
+- [ ] 
+Guardium
+Watson
+Cognos
+- [ ] 
+Watson Analytics
+Agent Assist
+Chatbot
+#### Q13.What is the industry term used to describe a situation where an assistant is able to answer a customer’s questions without transferring the call to a live agent?
+
+
+Inflection
+
+Deferred
+
+Deflection
+
+Transfer-Avoidance
+#### Q14.As you prospect Watson Assistant opportunities in your territory, what are two key questions to ask potential clients?
+
+- [ ] 
+Have you moved to model where you now support a containerization strategy?
+How many services have you deployed on IBM Public Cloud? 
+- [ ] 
+Have you heard of the Watson brand?
+Guess how many IBM patents were granted in 2020? 
+- [ ] 
+How have the trends of 2020 and 2021 changed the behavior of your clients?
+Do you feel like you provide the right amount of digital support for your clients? 
+- [ ] 
+Do you have any intention on hiring knowledge workers in the upcoming years?
+Are you familiar with IBM's Cloud Pak strategy? 
 #### Q15.
 #### Q16.
 #### Q17.
