@@ -185,7 +185,7 @@
 #### Q25.What is the amount that AI is expected to contribute to global GDP by 2030?
 
 - [ ] $12 Billion dollars
-- [ ] $16 Trillion dollars
+- [x] $16 Trillion dollars
 - [ ] $61 Trillion dollars
 - [ ] $120 Billion dollars
 
