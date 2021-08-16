@@ -4,7 +4,7 @@
 - [ ] Automate, Secure, Scale, and Predict
 - [ ] Secure, Modernize, Announce, and Automate
 - [ ] Automate, Secure, Modernize, and Predict
-- [x] Modernize, Predict, AI, and Secure
+- [ ] Modernize, Predict, AI, and Secure
 
 #### Q2. IBM has defined three critical ingredients for successful enterprise AI projects. One of these key ingredients is 'Language'. What does Language mean in this context?
 
