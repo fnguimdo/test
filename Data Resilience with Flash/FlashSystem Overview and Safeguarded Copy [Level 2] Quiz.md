@@ -29,9 +29,9 @@
 #### Q5. The FlashSystem family supports Distributed redundant array of inexpensive disk (DRAID) which delivers multiple benefits to clients. One of the significant benefits is the ability to non-disruptively increase the capacity of a DRAID group. How many drives can be added at one time?
  
 - [ ] 2-14 `X`
-- [ ] 1-12
-- [ ] 1-8
-- [ ] 2-10
+- [X] 1-12
+- [ ] 1-8 `X`
+- [ ] 2-10 `X`
 
 #### Q6. There is a perception that high-end systems from Dell/EMC and HDS Vantara support greater NVMe capacity and scalability.  Which vendor actually delivers both the greatest single NVMe drive capacity as well as overall system-level NVMe capacity?
  
