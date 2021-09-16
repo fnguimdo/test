@@ -99,7 +99,7 @@
 #### Q15. IBM continually enhances the Spectrum Virtualize software stack that is at the heart of FlashSystem solutions. What was the major enhancement that was added in July of 2021?
 
 - [ ] Safeguarded Copy
-- [ ] Two-way Encryption
+- [ ] Two-way Encryption `X`
 - [ ] Distributed RAID 4
 - [ ] Three-way HyperSwap `X`
 
