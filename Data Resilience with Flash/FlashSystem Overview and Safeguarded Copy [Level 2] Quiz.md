@@ -105,9 +105,9 @@
 
 #### Q16. IBM is leading the market by providing a way to bring real data protection to container backups. For Spectrum Virtualize solutions, what snapshot technology allows developers to backup, recover, and retain persistent container volumes by using predefined policies in Kubernetes (K8s) environments?
 
-- [ ] Container Storage Interface
-- [ ] CRI-O
-- [ ] Kubernetes
+- [x] Container Storage Interface
+- [ ] CRI-O `X`
+- [ ] Kubernetes `X`
 - [ ] Docker
 
 #### Q17. Which features of Spectrum Virtualize is Safeguarded Copy using to provide data resiliency?
@@ -141,9 +141,9 @@
 #### Q21. IBM has introduced a number of ways for FlashSystem solutions to be used as part of an overall cloud-capable storage strategy. IBM supports an automation software that enables Cloud Provisioning, Configuration Management, Intra-Service Orchestration, and Application Development. What is it called?
 
 - [ ] EC2
-- [ ] CRI-O
+- [ ] CRI-O `X`
 - [x] Ansible
-- [ ] AMI
+- [ ] AMI`X`
 
 #### Q22. In an effort to help clients who may not have large budgets, but who still have performance needs, IBM has designed the NVMe-based 5200, with three FlashCore Modules, to essentially equal the performance of the previous generation FlashSystem 5030 with what number of SAS drives?
 
