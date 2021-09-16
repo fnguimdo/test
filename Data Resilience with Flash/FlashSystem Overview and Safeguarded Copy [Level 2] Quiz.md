@@ -165,4 +165,12 @@
 - [x] It works on a sub-logical unit number (LUN) basis
 - [ ] It uses a brute force algorithm to predict what should be moved
 - [ ] It works through an advanced hyperlink connection
+
+#### Q25. There is a perception that high-end systems from Dell/EMC and HDS Vantara support greater NVMe capacity and scalability.  Which vendor actually delivers both the greatest single NVMe drive capacity as well as overall system-level NVMe capacity?
+ 
+- [ ] HDS Vantara 5500
+- [ ] They all offer identical capacities
+- [ ] Dell/EMC PowerMax 8000
+- [ ] IBM FlashSystem 7200 or 9200
+ 
  
