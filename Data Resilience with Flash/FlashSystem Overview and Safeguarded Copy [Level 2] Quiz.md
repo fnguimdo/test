@@ -87,7 +87,7 @@
 - [ ] Always on
 - [ ] Triple data reduction
 - [ ] Selectability
-- [ ] Only works with FlashCore Modules (FCMs)
+- [x] Only works with FlashCore Modules (FCMs)
 
 #### Q14. What is the name of the consistent base software stack which provides a wealth of features for the FlashSystem family?
 
