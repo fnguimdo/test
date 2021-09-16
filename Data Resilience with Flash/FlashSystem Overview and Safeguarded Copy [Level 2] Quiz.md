@@ -1,6 +1,6 @@
 #### Q1. What is the name of the powerful and unique IBM purpose-built storage devices that are typically used in the NVMe models of the FlashSystem family?
 
-- [ ] FlashCore Modules
+- [x] FlashCore Modules
 - [ ] Storage Class Memory
 - [ ] MicroLatency Modules
 - [ ] Dual Ported Non-Volatile Memory Express (NVMe) Solid-State Drives (SSDs `X`
