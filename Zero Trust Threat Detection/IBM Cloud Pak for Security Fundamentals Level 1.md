@@ -120,7 +120,7 @@
 #### Q18. A prospective client has standardized most of their operations on Microsoft Azure, but they still have a significant on-premises need as well. They need to deploy a security analytics platform that can run on Azure while supporting their on-premises environment, with built-in orchestration and case remediation. Which of the following solution meets the client’s requirements?
 
 - [X] Cloud Pak for Security
-- [ ] Palo Alto Cortex `X`
+- [ ] Palo Alto Cortex 
 - [ ] Google Chronicle
 - [ ] Microsoft Azure Sentinel
 
