@@ -63,7 +63,7 @@
 
 #### Q10. Which group of Spectrum Virtualize solutions support Safeguarded Copy and the the ability to virtualize external storage?
 
-- [ ] SVC - 5200 – 7200 – 9200
+- [x] SVC - 5200 – 7200 – 9200
 - [ ] SVC - 5015 – 5035 – 5200
 - [ ] SVC - 5035 – 9200 – 9200R `X`
 - [ ] SVC - 5035 – 5200 – 7200
