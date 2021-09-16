@@ -78,9 +78,9 @@
 #### Q12. When discussing Red Hat OpenShift with DEVELOPER audiences, you'll want to be on the lookout for particular pain points. What is a common point of friction for this audience that OpenShift can help to remedy?
 
 - [ ] Platform installations and updates `x`
-- [ ] Access to data science technologies
+- [ ] Access to data science technologies `x`
 - [ ] Friction between siloed teams `x`
-- [ ] Restrictions on choice of tooling and workflows
+- [x] Restrictions on choice of tooling and workflows
 
 #### Q13. For clients looking for innovative business models and launch new applications to transform the way their business is run, who are the personas within the company that you should target for prospecting?
 
