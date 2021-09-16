@@ -160,7 +160,7 @@
 
 ### Q24. Foundational Services interoperate and sit between which layers of the Cloud Paks Platform architecture?
 
-- [ ] Between Red Hat OpenShift and IBM Cloud Paks.
+- [x] Between Red Hat OpenShift and IBM Cloud Paks.
 - [ ] Foundational Services are only available on-premises (private Infrastructure).
 - [ ] Between individual IBM Cloud Paks only.
 - [ ] Between Infrastructure and Red Hat OpenShift.
