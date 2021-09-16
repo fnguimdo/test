@@ -121,7 +121,7 @@
 
 - [ ] Asynchronous Replication
 - [ ] Synchronous Replication
-- [ ] Hyper-Scale
+- [ ] Hyper-Scale `X`
 - [ ] HyperSwap
 
 #### Q19. What is likely the most affordably priced system in the FlashSystem family that supports end-to-end non-volatile memory express (NVMe)?
