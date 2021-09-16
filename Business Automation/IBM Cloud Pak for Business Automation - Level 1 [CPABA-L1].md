@@ -143,7 +143,7 @@
 
 - [ ] Monthly
 - [ ] Perpetual
-- [ ] Subscription
+- [x] Subscription
 - [ ] Enterprise License Agreement
 
 #### Q21. Although this competitor is built primarily on proprietary technology and doesn't support industry standards such as Business Process Model and Notation (BPMN), which competitor is considered a top threat overall for automation in general?
