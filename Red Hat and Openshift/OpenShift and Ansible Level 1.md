@@ -43,7 +43,7 @@
 #### Q7. Red Hat Ansible Automation Platform is "agentless", meaning that no additional software is needed to be installed on the endpoint (target) systems that clients are automating. In a client conversation, how would you describe the benefit of agentless architectures to a business?
 
 - [ ] Cuts costs
-- [ ] Simplifies implementation
+- [x] Simplifies implementation
 - [ ] Empowers more users
 - [ ] Provides governance
 
