@@ -175,12 +175,12 @@
 - [ ] 500+ `X`
 - [ ] 10+
 
-#### Q24.According to a study from the IBM Institute for Business Value (IBV), what are some of the benefits organizations are seeing by infusing AI into their workflows?
+#### Q24. According to a study from the IBM Institute for Business Value (IBV), what are some of the benefits organizations are seeing by infusing AI into their workflows?
 
 - [ ] Organizations are seeing a 60% drop in customer and employee engagement.
-- [ ] Organizations are seeing 60% shorter call times and within business operations and a 40% increase in employee productivity within business operations.
-- [ ] Organizations are seeing a 50% reduction in operational expenditures (OPEX) and capital expenditures (CAPEX).
-- [ ] Organizations are seeing 6x faster response to IT incidents and 60% increase in operational expenditures  (OPEX) costs.
+- [X] Organizations are seeing 60% shorter call times and within business operations and a 40% increase in employee productivity within business operations.
+- [ ] Organizations are seeing a 50% reduction in operational expenditures (OPEX) and capital expenditures (CAPEX). `X`
+- [ ] Organizations are seeing 6x faster response to IT incidents and 60% increase in operational expenditures  (OPEX) costs. `X`
 
 #### Q25.What is the amount that AI is expected to contribute to global GDP by 2030?
 
