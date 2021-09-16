@@ -169,7 +169,7 @@
 #### Q25. What is the one drive type that every member of the Spectrum Virtualize FlashSystem family is capable of supporting in either the control and/or expansion enclosure?
  
 - [ ] Serial Attached SCSI (SAS) hard disk drive (HDD)
-- [ ] SAS solid state drive (SSD)
+- [X] SAS solid state drive (SSD)
 - [ ] Non-Volatile Memory express (NVMe) SSD `X`
 - [ ] Storage Class Memory (SCM) `X`
 
