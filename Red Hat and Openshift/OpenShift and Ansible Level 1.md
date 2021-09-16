@@ -141,7 +141,7 @@
 #### Q21. There are four key areas where Red Hat OpenShift aligns with client initiatives or business objectives. Which one of the following statements describes the priorities of an EXECUTIVE audience and would be a good prospecting target for Red Hat OpenShift?
 
 - [ ] Determined hybrid cloud infrastructure is key to operations to build and run infrastructure efficiency
-- [ ] Focused on building cloud native applications quickly
+- [ ] Focused on building cloud native applications quickly `X`
 - [ ] Looking specifically for a container platform to run and manage containers better `X`
 - [ ] Broadly trying to transform the business and understand what the implications will be
 
