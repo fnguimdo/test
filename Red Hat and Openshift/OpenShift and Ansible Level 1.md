@@ -29,9 +29,9 @@
 #### Q5. IBM and Red Hat have defined four key use cases to look for when identifying Ansible Automation Platform opportunities. If a client wants preventative maintenance and automated discovery of risk exposure, you should follow which selling pattern?
 
 - [ ] Development and Operations Integration (DevOps) `X`
-- [x] Infrastructure Automation
+- [ ] Infrastructure Automation `X`
 - [ ] Network Automation `X`
-- [ ] Security Automation `X`
+- [x] Security Automation 
 
 #### Q6. IBM has put in place five key client conversations to help clients on their journey to cloud and cognitive enterprise. Of these, which one does the Red Hat Ansible Automation Platform align most closely with?
 
