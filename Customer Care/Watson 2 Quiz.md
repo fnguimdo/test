@@ -40,7 +40,7 @@
 
 #### Q6. If a customer is about to purchase Cloud Pak for Data plus all the Watson Cartridges, how many licenses do they need to get?
 
-- [ ] Watson Cartridges are not part of Cloud Pak for Data at this time.
+- [x] Watson Cartridges are not part of Cloud Pak for Data at this time.
 - [ ] A single license gives clients entitlement to all the Watson Cartridges. They will also need to acquire a license for Cloud Pak for Data.
 - [ ] Each of the Watson Cartridges are licensed separately so it depends on how many cartridges are needed.
 - [ ] Cloud Pak for Data plus all the Watson Cartridges plus OpenShift are part of a single license.
@@ -88,9 +88,9 @@
 #### Q11. You are talking to a client who is resistant to investing in a virtual assistant project because they have a well trained staff of call agents who are resolving issues with leading customer satisfaction Key Performance Indicators (KPIs).  You remember reading a quarterly earnings report for this client where the CEO remarked they have to find ways to lower costs as their supply chain costs rose and this is one of the reasons why profitability fell.  You ensure the client understands that:
 
 - [ ] The average cost of a live agent call is $5 - $7 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can cut your current labor budget targeted at customer service.
-- [ ] The average cost of a live agent call is $3 -$5 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can cut your current labor budget targeted at customer service.
+- [ ] The average cost of a live agent call is $3 -$4 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can cut your current labor budget targeted at customer service.
 - [ ] The average cost of a live agent call is $5 - $7 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can have those employees focus on higher value customer interactions than basic rote answers.
-- [ ] The average cost of a live agent call is $3 -$5 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can have those employees focus on higher value customer interactions than basic rote answers.
+- [x] The average cost of a live agent call is $3 -$4 … if handled with a virtual assistant, it’s about 0.25 cents/call and you can have those employees focus on higher value customer interactions than basic rote answers.
 
 #### Q12. You are preparing for a visit with a client who is in a highly competitive service industry where delivering outstanding customer care is mandatory. What are the key offerings you will build your presentation around?
 
@@ -206,7 +206,7 @@
 
 #### Q25. You are talking to a client whose Chief Information Officer (CIO) discovered that Watson Assistant is part of their licensed catalog as a result of an Enterprise License Agreement (ELA). They are definitely interested in doing something, but they are not sure where to start. You tell the CIO that Watson Assistant can help both internally and externally and write on the whiteboard what 3 patterns as the best place to start?  (Choose the best answer)
 
-- [ ] Customer Self Service, Agent Assist, and Contact Center Insights
+- [x] Customer Self Service, Agent Assist, and Contact Center Insights
 - [ ] Self Assist, Agent Assist, and AI Assist
 - [ ] Customer Self Service, Email Automation, and Customer Insights
 - [ ] Customer Self Service, Employee Self Service, and Agent Assist
