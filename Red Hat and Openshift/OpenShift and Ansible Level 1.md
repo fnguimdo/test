@@ -121,7 +121,7 @@
 
 - [ ] Comprehensive container security
 - [ ] Integration with reporting and analytics tools
-- [ ] Removing the complexity of Kubernetes
+- [x] Removing the complexity of Kubernetes
 - [ ] RStudio for built-in data science capabilities
 
 #### Q19. A key component of the Red Hat OpenShift Container Platform, hardened from its open source origins for the enterprise, allows clients to orchestrate and manage containers. What is the name of this technology?
