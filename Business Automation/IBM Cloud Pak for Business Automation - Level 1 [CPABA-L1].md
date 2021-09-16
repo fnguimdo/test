@@ -74,33 +74,33 @@
 - [ ] Inventory Turnover
 - [ ] Quick Ratio
 - [ ] Gross Profit Margin
-- [ ] Payback
+- [X] Payback
 
 #### Q11. You are getting ready to close your client's first Business Automation project proposal and you are truly interested in delighting them and making them successful with their investments. As a result, not only have you included IBM Expert Labs as a partner throughout the sales cycle, but also through the initial deployment and adoption phase to make sure they follow best practices and avoid any pitfalls. What is typically the first service offering delivered to the client by IBM Expert Labs?
 
-- [ ] Solution Architecture Workshop
-- [ ] Planning Workshop
-- [ ] Business Framing
-- [ ] Design Thinking Workshop
+- [ ] Solution Architecture Workshop `X`
+- [ ] Planning Workshop `X`
+- [X] Business Framing
+- [ ] Design Thinking Workshop `X`
 
 #### Q12. You are discussing business automation with your client who has several Cloud Pak for Business Automation software components deployed on traditional on-premises. Their long-term plan is move to a containerized deployment. Which components can they begin to immediately migrate to a containized deployment?
 
 - [ ] FileNet Content Manager, Business Automation Workflow, Content Collector, and Process Mining
 - [ ] FileNet Content Manager, Business Automation Workflow, Datacap, and Process Mining
-- [ ] FileNet Content Manager, Business Automation Workflow, Content Collector for SAP, and Process Mining
+- [X] FileNet Content Manager, Business Automation Workflow, Content Collector for SAP, and Process Mining
 - [ ] FileNet Content Manager, Business Automation Workflow, Content Collector, and Application Designer
 
 #### Q13. During the COVID-19 pandemic, businesses saw a significant time reduction around the creation of digital offerings. Developing countries saw an even greater reduction. What was that reduction?
 
-- [ ] 10 years down to 1
+- [X] 10 years down to 1
 - [ ] 2 years down to 1
 - [ ] 15 years down to 1
-- [ ] 5 years down to 1
+- [ ] 5 years down to 1 `X`
 
 #### Q14. The pandemic forced businesses to decrease the time to market for digital offerings. What was the negative effect of this benefit?
 
-- [ ] Resulted in a 24% employee attrition
-- [ ] Customer satisfaction increased by 19%
+- [ ] Resulted in a 24% employee attrition `X`
+- [ ] Customer satisfaction increased by 19% `X`
 - [ ] Businesses paid a premium for the software acquisition
 - [ ] Some of the solutions may have been implemented too hastily. This may have resulted in less than optimal implementations.
 
