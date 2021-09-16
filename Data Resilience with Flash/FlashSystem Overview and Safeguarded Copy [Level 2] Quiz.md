@@ -101,7 +101,7 @@
 - [ ] Safeguarded Copy
 - [ ] Two-way Encryption
 - [ ] Distributed RAID 4
-- [ ] Three-way HyperSwap
+- [ ] Three-way HyperSwap `X`
 
 #### Q16. IBM is leading the market by providing a way to bring real data protection to container backups. For Spectrum Virtualize solutions, what snapshot technology allows developers to backup, recover, and retain persistent container volumes by using predefined policies in Kubernetes (K8s) environments?
 
