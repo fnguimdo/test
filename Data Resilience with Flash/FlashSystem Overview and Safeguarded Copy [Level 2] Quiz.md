@@ -166,9 +166,12 @@
 - [ ] It uses a brute force algorithm to predict what should be moved
 - [ ] It works through an advanced hyperlink connection
 
-#### Q25. 
+#### Q25. What is the one drive type that every member of the Spectrum Virtualize FlashSystem family is capable of supporting in either the control and/or expansion enclosure?
  
-- [ ] HDS Vantara 5500
+- [ ] Serial Attached SCSI (SAS) hard disk drive (HDD)
+- [ ] SAS solid state drive (SSD)
+- [ ] Non-Volatile Memory express (NVMe) SSD `X`
+- [ ] Storage Class Memory (SCM)
 
  
  
