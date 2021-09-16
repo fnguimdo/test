@@ -149,7 +149,7 @@
 
 - [ ] 24
 - [ ] 12
-- [ ] 16
+- [ ] 16 `X`
 - [ ] 20
 
 #### Q23. Beginning with Spectrum Virtualize 8.4.x, FlashSystem arrays and SVC gained the ability to monitor 3-site replication from where?
