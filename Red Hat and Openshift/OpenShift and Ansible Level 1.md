@@ -114,7 +114,7 @@
 
 - [ ] Manage IT & Modernize Applications
 - [ ] Optimize IT & Manage IT
-- [ ] Modernization Applications & Build Cloud Native
+- [x] Modernization Applications & Build Cloud Native
 - [ ] Modernize Data and Analytics & Manage IT
 
 #### Q18. There are many elements of the Red Hat OpenShift Container Platform that should excite any developer audience you are speaking to. Which one of the following benefits will resonate particularly well with developers?
