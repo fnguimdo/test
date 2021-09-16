@@ -150,12 +150,12 @@
 - [ ] Reduces custom integration costs and effort and reduces compliance risk
 - [ ] Integrated dashboards and threat intelligence risk analytics detect incidents faster
 - [ ] Reduces staff overload and burnout, turning junior analysts into senior analysts
-- [ ] Supports 600+ data sources out-of-the-box and provides federated threat searching
+- [X] Supports 600+ data sources out-of-the-box and provides federated threat searching
 
 #### Q23. What is a key Cloud Pak for Security benefit that you, as a seller, should present to an Incident Responder?
 
 - [ ] Connects to over 600 data sources
-- [ ] Automates repetitive, time-consuming tasks
+- [X] Automates repetitive, time-consuming tasks
 - [ ] Reduces integration costs and effort
 - [ ] Preserves investments by working with current security tools
 
@@ -168,7 +168,7 @@
 
 #### Q25. A client needs help bridging the operational silos between the Security Operations Center (SOC) and compliance teams that have grown over time. They feel an investment in this area of their business would facilitate better compliance. What Cloud Pak for Security use case will help IBM deliver on this client need?
 
-- [ ] Security Orchestration and Response (SOAR)
+- [X] Security Orchestration and Response (SOAR)
 - [ ] Threat Intelligence Insights (TII)
 - [ ] Security Information and Event Management (SIEM)
 - [ ] Data Explorer (DE)
