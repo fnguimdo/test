@@ -43,7 +43,7 @@
 #### Q7. IBM offers a consumption-based cloud pricing solution, for FlashSystem arrays, to deliver consumption-based cloud pricing which can flex-up or flex-down. It typically involves a combination of CapEx & OpEx pricing. What is it called?
 
 - [ ] Storage Utility Offering
-- [ ] Spectrum Virtualize Cloud Pak
+- [ ] Spectrum Virtualize Cloud Pak `X`
 - [ ] Hybrid Multicloud Pricing `X`
 - [ ] Storage Class Memory Pricing
 
