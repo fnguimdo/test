@@ -105,8 +105,8 @@
 
 #### Q16. IBM and Red Hat have defined four key use cases to look for when identifying Ansible Automation Platform opportunities. If a client is looking to improve cross-organizational collaboration, you should follow which selling pattern?
 
-- [ ] Network Automation
-- [x] Infrastructure Automation
+- [x] Network Automation
+- [ ] Infrastructure Automation
 - [ ] Security Automation
 - [ ] Development and Operations Integration (DevOps)
 
