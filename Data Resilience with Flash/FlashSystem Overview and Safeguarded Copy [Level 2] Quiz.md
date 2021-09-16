@@ -44,7 +44,7 @@
 
 - [ ] Storage Utility Offering
 - [ ] Spectrum Virtualize Cloud Pak
-- [ ] Hybrid Multicloud Pricing
+- [ ] Hybrid Multicloud Pricing `X`
 - [ ] Storage Class Memory Pricing
 
 #### Q8. What is the first system in the FlashSystem family that supports clustering?
