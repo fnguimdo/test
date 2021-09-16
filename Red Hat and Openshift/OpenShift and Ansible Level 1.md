@@ -149,7 +149,7 @@
 
 - [ ] RStudio for built-in data science capabilities
 - [ ] Removing the complexity of Kubernetes `X`
-- [ ] Integration with reporting and analytics tools
+- [ ] Integration with reporting and analytics tools `X`
 - [ ] Comprehensive container security
 
 #### Q23. When discussing Red Hat OpenShift with TECHNICAL EXECUTIVE and LOB audiences, you'll want to be on the lookout for particular pain points. What is a common point of friction for this audience that OpenShift can help to remedy?
