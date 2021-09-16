@@ -102,12 +102,12 @@
 - [ ] Resulted in a 24% employee attrition `X`
 - [ ] Customer satisfaction increased by 19% `X`
 - [ ] Businesses paid a premium for the software acquisition
-- [ ] Some of the solutions may have been implemented too hastily. This may have resulted in less than optimal implementations.
+- [X] Some of the solutions may have been implemented too hastily. This may have resulted in less than optimal implementations.
 
 #### Q15. IBM Cloud Pak for Business Automation is one of the strategic offerings at IBM. Which statement is correct?
 
 - [ ] We do not have a strong value proposition when compared to "niche" players.
-- [ ] While IBM Cloud Pak for Business Automation is a strategic offering, you should balance positioning this Cloud Pak only vs. positioning the individual capabilities
+- [X] While IBM Cloud Pak for Business Automation is a strategic offering, you should balance positioning this Cloud Pak only vs. positioning the individual capabilities
 - [ ] You should only position IBM Cloud Pak for Business Automation since this is the only offer available for clients to purchase
 - [ ] You should always start the conversation with Robotic Process Automation
 
@@ -115,27 +115,27 @@
 
 - [ ] Datacap and Automation Document Processing
 - [ ] Datacap and Content Analyzer on Cloud
-- [ ] Content Analyzer on Cloud and Blueworks Live
-- [ ] Content Collector and Content Collector for SAP
+- [x] Content Analyzer on Cloud and Blueworks Live
+- [ ] Content Collector and Content Collector for SAP `X`
 
 #### Q17. You are addressing a team of data administrators and data analysts that are struggling with increased amount of data in their organization. How does AI-powered automation help compared to traditional automation?
 
-- [ ] AI powered automation is only applicable for new business scenarios. Traditional automation is used for existing data.
+- [ ] AI powered automation is only applicable for new business scenarios. Traditional automation is used for existing data. `X`
 - [ ] AI powered automation helps with structured data but not unstructured data.
-- [ ] AI powered automation helps collect, organize, and classify vast amounts of structured and unstructured data.
+- [X] AI powered automation helps collect, organize, and classify vast amounts of structured and unstructured data.
 - [ ] AI powered automation helps with unstructured data but not structured data.
 
 #### Q18. Which Business Automation components can only be deployed on Red Hat® OpenShift?
 
-- [ ] Automation Document Processing, Automation Decision Services, Business Automation Studio, and Automation Workstream Services
-- [ ] Automation Document Processing, Automation Decision Services, Business Automation Studio, and Business Automation Workflow
-- [ ] FileNet Content Manager, Automation Decision Services, Business Automation Studio, and Automation Workstream Services
-- [ ] Automation Document Processing, Automation Decision Services, Operational Decision Manager, and Automation Workstream Services
+- [x] Automation Document Processing, Automation Decision Services, Business Automation Studio, and Automation Workstream Services
+- [ ] Automation Document Processing, Automation Decision Services, Business Automation Studio, and Business Automation Workflow `X`
+- [ ] FileNet Content Manager, Automation Decision Services, Business Automation Studio, and Automation Workstream Services `X`
+- [ ] Automation Document Processing, Automation Decision Services, Operational Decision Manager, and Automation Workstream Services `X`
 
 #### Q19. You are getting ready to meet a new prospect for the first time who is an IT Leader in a travel and transportation company. You know they manage the tools used by customer service representatives. Which competitor is considered a top five threat and you may not be aware is already within your prospect’s IT organization?
 
 - [ ] Appian®
-- [ ] ServiceNow®
+- [x] ServiceNow®
 - [ ] Pega®
 - [ ] OpenText®
 
@@ -148,10 +148,10 @@
 
 #### Q21. Although this competitor is built primarily on proprietary technology and doesn't support industry standards such as Business Process Model and Notation (BPMN), which competitor is considered a top threat overall for automation in general?
 
-- [ ] Microsoft®
-- [ ] Pega®
-- [ ] OpenText®
-- [ ] Appian®
+- [ ] Microsoft® `X`
+- [X] Pega®
+- [ ] OpenText® `X`
+- [ ] Appian® `X`
 
 #### Q22. You're talking to a client about a their digital transformation and talk about a foundational set of pillars upon which all successful transformation projects are built. As you turn to to the whiteboard to sketch out 3 pillars, what labels do you use?
 
