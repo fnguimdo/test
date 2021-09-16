@@ -114,7 +114,7 @@
 
 - [ ] Metro Mirror and Consistency Groups
 - [ ] Global Mirror with Change Volunes and Real-time Compression
-- [ ] FlashCopy and Child Pools
+- [x] FlashCopy and Child Pools
 - [ ] Volume Mirroring and Data Reduction Pools
 
 #### Q18. IBM offers a high availability feature for most FlashSystem solutions. This feature may support a 100% uptime guarantee. What is the name of this feature?
