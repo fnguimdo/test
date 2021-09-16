@@ -169,6 +169,6 @@
 #### Q25. IBM Services supplies multiple engagements designed to facilitate cloud journey conversations with clients, especially those involving Red Hat. There are four key themes: Advise, Move, Build, and a fourth. What is the fourth theme that IBM Services can deliver as a client-tailored workshop?
 
 - [ ] Secure: IBM Services for Cloud Security
-- [ ] Manage: IBM Services for Cloud Management
+- [x] Manage: IBM Services for Cloud Management
 - [ ] Integrate: IBM Services for Cloud Integration
 - [ ] Containerize: IBM Services for Cloud Containers
