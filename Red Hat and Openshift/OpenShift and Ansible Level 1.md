@@ -135,7 +135,7 @@
 
 - [ ] Restrictions on choice of tooling and workflows `X`
 - [ ] Friction between siloed teams `X`
-- [ ] Platform installations and updates
+- [x] Platform installations and updates
 - [ ] Access to data science technologies
 
 #### Q21. There are four key areas where Red Hat OpenShift aligns with client initiatives or business objectives. Which one of the following statements describes the priorities of an EXECUTIVE audience and would be a good prospecting target for Red Hat OpenShift?
