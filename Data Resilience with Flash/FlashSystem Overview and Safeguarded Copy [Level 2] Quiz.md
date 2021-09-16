@@ -80,7 +80,7 @@
 - [ ] Server cache intermix
 - [ ] Storage Class Memory
 - [ ] FlashCore Modules `X`
-- [ ] Storage disk scalability
+- [ ] Storage disk scalability `X`
 
 #### Q13. Spectrum Virtualize, in the form of SAN Volume Controller and FlashSystem storage, supports Data Reduction Pools (DRP). These pools have a capability that makes them extremely flexible. What is a capability that is often missing in our competitor’s data reduction schemes?
 
