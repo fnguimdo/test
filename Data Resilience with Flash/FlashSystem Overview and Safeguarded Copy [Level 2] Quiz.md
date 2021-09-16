@@ -171,7 +171,7 @@
 - [ ] Serial Attached SCSI (SAS) hard disk drive (HDD)
 - [ ] SAS solid state drive (SSD)
 - [ ] Non-Volatile Memory express (NVMe) SSD `X`
-- [ ] Storage Class Memory (SCM)
+- [ ] Storage Class Memory (SCM) `X`
 
  
  
