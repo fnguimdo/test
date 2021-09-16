@@ -59,7 +59,7 @@
 - [ ] 2
 - [ ] 4
 - [ ] 3
-- [ ] 1
+- [ ] 1 `X`
 
 #### Q10. Which group of Spectrum Virtualize solutions support Safeguarded Copy and the the ability to virtualize external storage?
 
