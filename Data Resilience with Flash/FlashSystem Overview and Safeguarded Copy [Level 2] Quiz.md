@@ -92,7 +92,7 @@
 #### Q14. What is the name of the consistent base software stack which provides a wealth of features for the FlashSystem family?
 
 - [ ] IBM Spectrum Storage
-- [ ] IBM Spectrum Virtualize
+- [x] IBM Spectrum Virtualize
 - [ ] IBM Spectrum Scale
 - [ ] IBM Spectrum Accelerate
  
