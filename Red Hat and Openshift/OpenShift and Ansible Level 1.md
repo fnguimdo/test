@@ -73,7 +73,7 @@
 - [ ] Enterprise architects, Chief Information Officer (CIO), and ops teams
 - [ ] Chief Technology Officer (CTO), enterprise architects, and DevOps teams
 - [ ] Chief Technology Officer (CTO), Chief Information Officer (CIO), Chief Data Officer (CDO), and Line of Business (LOB)
-- [ ] Application architects and developers
+- [x] Application architects and developers
 
 #### Q12. When discussing Red Hat OpenShift with DEVELOPER audiences, you'll want to be on the lookout for particular pain points. What is a common point of friction for this audience that OpenShift can help to remedy?
 
