@@ -142,7 +142,7 @@
 
 - [ ] EC2
 - [ ] CRI-O
-- [ ] Ansible
+- [x] Ansible
 - [ ] AMI
 
 #### Q22. In an effort to help clients who may not have large budgets, but who still have performance needs, IBM has designed the NVMe-based 5200, with three FlashCore Modules, to essentially equal the performance of the previous generation FlashSystem 5030 with what number of SAS drives?
