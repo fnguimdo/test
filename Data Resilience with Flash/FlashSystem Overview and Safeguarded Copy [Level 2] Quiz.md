@@ -98,9 +98,9 @@
  
 #### Q15. IBM continually enhances the Spectrum Virtualize software stack that is at the heart of FlashSystem solutions. What was the major enhancement that was added in July of 2021?
 
-- [ ] Safeguarded Copy
+- [x] Safeguarded Copy
 - [ ] Two-way Encryption `X`
-- [ ] Distributed RAID 4
+- [ ] Distributed RAID 4 `X`
 - [ ] Three-way HyperSwap `X`
 
 #### Q16. IBM is leading the market by providing a way to bring real data protection to container backups. For Spectrum Virtualize solutions, what snapshot technology allows developers to backup, recover, and retain persistent container volumes by using predefined policies in Kubernetes (K8s) environments?
