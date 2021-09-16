@@ -157,7 +157,7 @@
 - [ ] Spectrum Control
 - [ ] External Windows Orchestrator
 - [ ] Spectrum Storage
-- [ ] Spectrum Virtualize software
+- [x] Spectrum Virtualize software
 
 #### Q24. What makes Easy Tier so efficient that it can deliver impressive results with even when using only a small percentage of truly high-performance storage?
  
