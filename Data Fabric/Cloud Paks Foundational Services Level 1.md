@@ -23,8 +23,8 @@
 
 - [ ] IBM Cloud Private (ICP)
 - [ ] IBM Cloud OpenShift
-- [X] IBM Cloud Paks as a Service (CPaaS)
-- [ ] IBM Cloud Satellite
+- [ ] IBM Cloud Paks as a Service (CPaaS)
+- [X] IBM Cloud Satellite
 
 ### Q5. When talking to customers and to the marketplace about the common set of services that support IBM Cloud Paks, we must always refer to them by their proper name: IBM Cloud Paks Foundational Services (or "Foundational Services" for short). However, internally at IBM you may come across old documentation that references them by a different name. Of the following, which one is another common— but outdated —name for the Foundational Services?
 
