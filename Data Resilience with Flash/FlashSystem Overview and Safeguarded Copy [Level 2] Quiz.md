@@ -70,7 +70,7 @@
 
 #### Q11. What is the powerful ability, found in FlashSystem 5200, and above,  that enables clients to apply consistent Spectrum Virtualize management and features to over 500 heterogeneous storage systems?
 
-- [ ] Storage Virtualization
+- [X] Storage Virtualization
 - [ ] vStorage API for Array Integration (VAAI) and vSphere API for Storage Awareness (VASA)
 - [ ] WAN IP Replication
 - [ ] IBM Storage Insights
@@ -78,7 +78,7 @@
 #### Q12. All NVMe-based FlashSystem models are able to use an extremely fast, low-latency, next-generation solid-state technology. What is the name of this new high performance technology?
 
 - [ ] Server cache intermix
-- [ ] Storage Class Memory
+- [X] Storage Class Memory
 - [ ] FlashCore Modules `X`
 - [ ] Storage disk scalability `X`
 
