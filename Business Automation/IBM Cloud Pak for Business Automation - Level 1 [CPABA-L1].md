@@ -177,5 +177,5 @@
 
 - [ ] The discovery questions are not organized by role
 - [ ] Business Services Consultants and Developers
-- [ ] Line of Business (LOB) Leaders and IT Leaders
-- [x] No-code and Low-code Developers
+- [x] Line of Business (LOB) Leaders and IT Leaders
+- [ ] No-code and Low-code Developers
