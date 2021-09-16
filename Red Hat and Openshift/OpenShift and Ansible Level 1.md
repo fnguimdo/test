@@ -37,7 +37,7 @@
 
 - [ ] Manage IT
 - [ ] Build cloud native
-- [ ] Modernize applications
+- [ ] Modernize applications `X`
 - [ ] Modernize data and analytics
 
 #### Q7. Red Hat Ansible Automation Platform is "agentless", meaning that no additional software is needed to be installed on the endpoint (target) systems that clients are automating. In a client conversation, how would you describe the benefit of agentless architectures to a business?
