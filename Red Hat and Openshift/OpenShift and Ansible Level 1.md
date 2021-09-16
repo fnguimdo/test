@@ -24,7 +24,7 @@
 - [ ] Integration of Webhook with GitLab and GitHub to automatically run automation or launch deployments.
 - [ ] Enables users to see how specific automation actions perform in detail, using aggregated statistics and data around modules and resources.
 - [ ] A centralized repository to publish content, and for clients to discover certified, supported Ansible Content Collections.
-- [ ] Packages and organizes Ansible content including modules, plugins, roles, and playbooks.
+- [ ] Packages and organizes Ansible content including modules, plugins, roles, and playbooks. `X`
 
 #### Q5. IBM and Red Hat have defined four key use cases to look for when identifying Ansible Automation Platform opportunities. If a client wants preventative maintenance and automated discovery of risk exposure, you should follow which selling pattern?
 
