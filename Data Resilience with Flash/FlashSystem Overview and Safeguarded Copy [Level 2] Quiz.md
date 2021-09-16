@@ -65,7 +65,7 @@
 
 - [ ] SVC - 5200 – 7200 – 9200
 - [ ] SVC - 5015 – 5035 – 5200
-- [ ] SVC - 5035 – 9200 – 9200R
+- [ ] SVC - 5035 – 9200 – 9200R `X`
 - [ ] SVC - 5035 – 5200 – 7200
 
 #### Q11. What is the powerful ability, found in FlashSystem 5200, and above,  that enables clients to apply consistent Spectrum Virtualize management and features to over 500 heterogeneous storage systems?
