@@ -133,7 +133,7 @@
 
 #### Q20. When discussing Red Hat OpenShift with IT OPERATIONS audiences, you'll want to be on the lookout for particular pain points. What is a common point of friction for this audience that OpenShift can help to remedy?
 
-- [ ] Restrictions on choice of tooling and workflows
+- [ ] Restrictions on choice of tooling and workflows `X`
 - [ ] Friction between siloed teams
 - [ ] Platform installations and updates
 - [ ] Access to data science technologies
