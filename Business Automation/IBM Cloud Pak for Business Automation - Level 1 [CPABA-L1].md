@@ -156,7 +156,7 @@
 #### Q22. You're talking to a client about a their digital transformation and talk about a foundational set of pillars upon which all successful transformation projects are built. As you turn to to the whiteboard to sketch out 3 pillars, what labels do you use?
 
 - [ ] Data, Performance, and Execution
-- [ ] Digitize, Analyze and Optimize, and Act
+- [x] Digitize, Analyze and Optimize, and Act
 - [ ] Secure, Predict, and Modernize
 - [ ] Content, Process, and Decisions
 
@@ -165,17 +165,17 @@
 - [ ] Return on Investment (ROI), Net Present Value (NPV), Quick Ratio, and Internal Rate of Return (IRR)
 - [ ] Return on Investment (ROI), Net Present Value (NPV), Inventory Turnover, and Internal Rate of Return (IRR)
 - [ ] Return on Expense (ROE), Net Present Value (NPV), Gross Profit Margin, and Return on Investment (ROI)
-- [ ] Payback period, Return on Investment (ROI), Net Present Value (NPV), and Internal Rate of Return (IRR)
+- [x] Payback period, Return on Investment (ROI), Net Present Value (NPV), and Internal Rate of Return (IRR)
 #### Q24. Your client has just completed a Solution Architecture Workshop with IBM Expert Labs. What is the next services offering typically delivered after this workshop?
 
 - [ ] Solution Assessment
 - [ ] Business Framing
 - [ ] Design Thinking Workshop
-- [ ] Minimum Viable Product (MVP)
+- [x] Minimum Viable Product (MVP)
 
 #### Q25. You are meeting a new prospect for the first time and are preparing by reviewing some discovery questions from the Cloud Pak for Business Automation Seismic materials. You are not sure what role the prospect has in the organization. For what roles are discovery questions provided?
 
 - [ ] The discovery questions are not organized by role
 - [ ] Business Services Consultants and Developers
 - [ ] Line of Business (LOB) Leaders and IT Leaders
-- [ ] No-code and Low-code Developers
+- [x] No-code and Low-code Developers
