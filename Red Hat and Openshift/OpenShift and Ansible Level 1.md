@@ -86,7 +86,7 @@
 
 - [ ] Enterprise architects, Chief Information Officer (CIO), and ops teams
 - [ ] Chief Technology Officer (CTO), enterprise architects, and DevOps teams
-- [ ] Application architects and developers
+- [ ] Application architects and developers `X`
 - [ ] Chief Technology Officer (CTO), Chief Information Officer (CIO), Chief Data Officer (CDO), and Line of Business (LOB)
 
 #### Q14. Many different personas across an enterprise can benefit from Ansible Automation Platform's orchestration, configuration management, deployment, and provisioning capabilities. But it pays to understand your target audience as a seller. Who should you approach if a client needs solutions that are cost effective, minimize shadow IT, and reduce confusion around capabilities?
