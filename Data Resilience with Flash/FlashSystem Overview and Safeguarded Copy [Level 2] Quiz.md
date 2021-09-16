@@ -49,7 +49,7 @@
 
 #### Q8. What is the first system in the FlashSystem family that supports clustering?
  
-- [ ] 7200
+- [ ] 7200 `X`
 - [ ] 5035
 - [ ] 5200
 - [ ] 5015
