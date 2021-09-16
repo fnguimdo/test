@@ -21,7 +21,7 @@
 
 #### Q4. Which of the following statements is not true with respect to Safeguarded Copy for Spectrum Virtualize?
 
-- [ ] All users can easily delete older SGC copies
+- [x] All users can easily delete older SGC copies
 - [ ] Built on well-proven FlashCopy functionality
 - [ ] Requires IBM Copy Services Manager (CSM)
 - [ ] SGC uses scheduled point in time copies stored in an isolated, secure location
