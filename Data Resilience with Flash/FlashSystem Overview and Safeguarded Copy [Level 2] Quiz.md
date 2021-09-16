@@ -50,8 +50,8 @@
 #### Q8. What is the first system in the FlashSystem family that supports clustering?
  
 - [ ] 7200 `X`
-- [ ] 5035
-- [ ] 5200
+- [X] 5035
+- [ ] 5200 `X`
 - [ ] 5015
 
 #### Q9. What is the minimum number of FlashSystem 9200s found in a FlashSystem 9200R?
