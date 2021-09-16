@@ -1,58 +1,58 @@
 #### Q1. IBM Automation offers a unique framework for improving business performance as captured in the Automation Dial. What are the four dial settings?
 
-- [ ] Collect, Organize, Classify, and Analyze
-- [ ] Discover, Decide, Act, and Optimize
+- [ ] Collect, Organize, Classify, and Analyze `X`
+- [X] Discover, Decide, Act, and Optimize
 - [ ] Collect, Classify, Optimize, and Automate `X`
 - [ ] Discover, Decide, Automate, and Optimize
 
 #### Q2. Your client is unsure of where their next automation project should start.  Which capability provided by the Cloud Pak for Business Automation would you recommend?
 
 - [ ] Network Operations
-- [ ] Application Performance Management
+- [ ] Application Performance Management `X`
 - [ ] Application Resource Management
-- [ ] Process Mining
+- [X] Process Mining
 
 #### Q3. You are discussing business automation with your client who is interested in software components offered as a service (SaaS). Which Cloud Pak for Business Automation components can be offered as a service?
 
-- [ ] Business Automation Insights, Automation Workstream Services, Business Automation Studio, and IBM Content Manager
+- [ ] Business Automation Insights, Automation Workstream Services, Business Automation Studio, and IBM Content Manager `X`
 - [ ] Business Automation Insights, Automation Workstream Services, Content Manager OnDemand, and Application Designer
-- [ ] FileNet Content Manager, Automation Workstream Services, Business Automation Studio, and Blueworks Live
-- [ ] Business Automation Insights, Automation Workstream Services, Business Automation Studio, and Content Collector for SAP
+- [X] FileNet Content Manager, Automation Workstream Services, Business Automation Studio, and Blueworks Live
+- [ ] Business Automation Insights, Automation Workstream Services, Business Automation Studio, and Content Collector for SAP `X`
 
 #### Q4. Thinking about the capabilties found in IBM Cloud Pak for Business Automation, which of these statements is true?
 
 - [ ] Operational Intelligence: Provides business IT resources the ability to monitor their server infrastructure.
 - [ ] Decisions: Allows Developers to implement pseudo-code in real time while removing the possibility of human error.
-- [ ] Robotic Process Automation: Think in terms of a Fedex or UPS “virtual assistant chat bot” that allows you to enter inquiries about the status of your order and/or shipment without the need to talk with a “live” agent.
-- [ ] Capture: This capability allows businesses to manage digital files such as videos (MP4, AVI, etc.), audio (MP3), and photos (JPEG)
+- [X] Robotic Process Automation: Think in terms of a Fedex or UPS “virtual assistant chat bot” that allows you to enter inquiries about the status of your order and/or shipment without the need to talk with a “live” agent.
+- [ ] Capture: This capability allows businesses to manage digital files such as videos (MP4, AVI, etc.), audio (MP3), and photos (JPEG) `X`
 
 #### Q5. Before the COVID-19 pandemic, the vast majority of employees worked (and in some cases were required to work) from their main office. COVID-19 changed this and all those employees who could/should work remotely, were asked to do so. Prior to the pandemic, what percentage of employees worked remotely?
 
 - [ ] 25%
 - [ ] 2%
-- [ ] 6%
+- [X] 6%
 - [ ] 4%
 
 #### Q6. You just closed a big deal and instead of celebrating right away, you use the additional energy to prospect for more opportunities. You remember the easy to use Grab and Go kits for business automation and already know the hyperautomation kit well. What is one of the other two kits related to business automation that you can use?
 
-- [ ] Content and document processing
+- [ ] Content and document processing `X`
 - [ ] Workflow
-- [ ] Robotic Process Automation
-- [ ] AI-based decisions
+- [X] Robotic Process Automation
+- [ ] AI-based decisions `X`
 
 #### Q7. You ran into your college roommate who is now working for a retail company. They just told you their organization is looking for a way to allow their customers to go online and lookup information about the order they placed. Your former roomate is looking for a "digital agent" to assist their customers. Which capability of Cloud Pak for Business Automation would best deliver that functionality?
 
-- [ ] Process Mining
-- [ ] Capture
-- [ ] Robotic Process Automation
-- [ ] Decisions
+- [ ] Process Mining `X`
+- [ ] Capture `X`
+- [X] Robotic Process Automation
+- [ ] Decisions `X`
 
 #### Q8. You are discussing Business Automation with your client's Line of Business managers. They ask you for common use cases where Business Automation will apply as opposed to IT Automation. What are some of the commonly quoted use cases for Business Automation? 
 
 - [ ] Client experience, real-time interactions, and platform operations
-- [ ] Transactional integrity, workforce management, and platform operations
-- [ ] Client experience, business operations, and workforce management
-- [ ] Business operations, infrastructure stability, and workforce management
+- [ ] Transactional integrity, workforce management, and platform operations `X`
+- [X] Client experience, business operations, and workforce management
+- [ ] Business operations, infrastructure stability, and workforce management `X`
 
 #### Q9. You are having a one-on-one conversation with the CIO of a company that expressed concerns about productivity and time to market issues. What are the top two recommendations you would offer to make people more productive and improve business performance?
 
@@ -65,7 +65,7 @@
 - [ ] 
   1. Automate all tasks using robots
   2. Reduce workforce no longer needed
-- [ ] 
+- [X] 
   1. Eliminate repetitive tasks so employees can focus on higher-value work
   2. Automate manual tasks
 
