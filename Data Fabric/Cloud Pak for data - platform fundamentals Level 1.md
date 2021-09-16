@@ -142,13 +142,13 @@
 #### Q21. Select the term that matches the following definition from Gartner: "Orchestrating disparate data sources intelligently and securely in a self-service manner, leveraging data platforms such as data lakes, data warehouses, NoSQL, translytical, and others to deliver a unified, trusted and comprehensive view of customer and business data across the enterprise to support applications and insights."
 
 - [ ] Modern Data Warehouse
-- [ ] Hybrid Cloud Data Fabric
+- [X] Hybrid Cloud Data Fabric
 - [ ] Risk and Compliance
 - [ ] Trusted AI
 
 #### Q22. You're talking to a client that is interested in a new license for a Data and AI standalone product (for example, Db2, DataStage, Cognos Analytics, or Watson Assistant). For a net new license, what should you propose?
 
-- [ ] Cloud Pak for Data Cartridge
+- [X] Cloud Pak for Data Cartridge
 - [ ] IBM Cloud Satellite
 - [ ] Traditional, non-containerized product
 - [ ] Modernization Upgrade (Cartridge + Cloud Pak for Data)
@@ -157,19 +157,19 @@
 
 - [ ] IBM Cloud Satellite
 - [ ] Cloud Pak for Data Software
-- [ ] Cloud Pak for Data as a Service
+- [X] Cloud Pak for Data as a Service
 - [ ] Cloud Pak for Data System
 
 #### Q24. An existing IBM client with analytics software is listening to you talk about Cloud Pak for Data, and asks for a quick summary of its benefits from a packaging and licensing perspective. How do you respond?
 
 - [ ] Distribute software and increase vendor "lock-in"
 - [ ] Run on any cloud
-- [ ] Consolidate software, reduce tool spend, and unlock new value from infrastructure
+- [X] Consolidate software, reduce tool spend, and unlock new value from infrastructure
 - [ ] Provide a single packaging solution that fits most clients' needs
 
 ### Q25. A client is in the process of modernizing their environments using a containerization strategy for their in-house applications and licensed software. They are talking to you about "shared entitlement" for the Cloud Pak for Data Cartridges they purchased, but seem confused about what it allows them to do. How would you describe the deployment options available through the shared entitlement of their Cloud Pak for Data Cartridges?
 
 - [ ] Only full containerization
 - [ ] Only partial containerization
-- [ ] No containerization, partial containerization, or full containerization
+- [X] No containerization, partial containerization, or full containerization
 - [ ] Either no containerization or full containerization
