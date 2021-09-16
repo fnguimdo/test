@@ -97,12 +97,12 @@
   - Single Management view for admin
   - End to end fault detection `X`
 
-- [X] Red Hat OCP delivers lots of value to clients, but the top three are:
+- [ ] Red Hat OCP delivers lots of value to clients, but the top three are:
   - Full integration into GIT
   - Seamless 2-Factor Authentication
   - Ease of Management
 
-- [ ] Red Hat OCP delivers lots of value to clients, but the top three are:
+- [X] Red Hat OCP delivers lots of value to clients, but the top three are:
   - Virtualizes and orchestrates data and apps on any cloud
   - Delivers repeatability and agility with containerization
   - Eases management, integration and adaptability
@@ -143,7 +143,7 @@
 #### Q19.There are a number of dominant use cases where applying AI can result in significant benefits. You are about to visit an organization that wants to leverage AI to help their employees and managers interact with HR in an efficient manner. What use case do you plan to recommend?
  
 - [ ] Financial Planning
-- [ ] Employee Experience
+- [X] Employee Experience
 - [ ] Customer Service
 - [ ] Regulatory Compliance
 
@@ -152,11 +152,11 @@
 - [ ] Provided a mechanism for good traceability due to an increase in global food poisoning deaths.
 - [ ] Paved the way to enable consumer to begin to track calories in their meals.
 - [ ] Ensured that independent farmers were being given credit for key ingredients.
-- [ ] Recognized the need for transparency in the food production business.
+- [X] Recognized the need for transparency in the food production business.
 
 #### Q21.A client has approached you out of great concerns around the use of AI from an ethics perspective. You talk to them about how IBM defines trustworthy AI using three dimensions. As you delve into the AI Ethics dimension, you note that "AI must be transparent". The client asks you to be more specific, and you respond ...
 
-- [ ] Transparency refers to the disclosure of the underlying AI system. The AI system can show how the service works, evaluate its own functionality in terms of drift and fairnes, and the model's strengths and weakness can be easily understood and explained
+- [X] Transparency refers to the disclosure of the underlying AI system. The AI system can show how the service works, evaluate its own functionality in terms of drift and fairnes, and the model's strengths and weakness can be easily understood and explained
 - [ ] Transparency refers to making the source code available so that others can benefit from the work done
 - [ ] Transparency refers to ensuring that the developers understand the outcomes of the AI models
 - [ ] Transparency refers to an ability to the invoke a 'see source' command in any and all portions of the AI model
@@ -164,7 +164,7 @@
 #### Q22.Recently a customer of a bank applied for an online credit approval and was rejected. That customer then called the help desk to see how the decision on the loan application could be reversed. What characteristic of the AI model underpinning the credit application needs to be present so that support agent can provide the necessary details to this customer?
 
 - [ ] Fair. An AI system should be built in a way so that there is no biasness built into the model. Therefore a situation such as this would not happen because this person is an existing customer and even if they were not automatically approved they could get the credit approval by visiting the branch.
-- [ ] Explainability. An AI system should be able to explain and contextualize how and why it arrived at a particular decision or conclusion. So that in this case, the agent could explain why the customer scored in a particular way and what actions they could take to remedy the situation.
+- [X] Explainability. An AI system should be able to explain and contextualize how and why it arrived at a particular decision or conclusion. So that in this case, the agent could explain why the customer scored in a particular way and what actions they could take to remedy the situation.
 - [ ] Equality. The AI system needs to treat every customer according to their standing with the bank.
 - [ ] Robustness. The AI system should be built in a way that not only provides a decision, but also suggests to get approved for the credit they applied for.
 
