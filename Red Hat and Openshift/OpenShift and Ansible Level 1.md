@@ -66,7 +66,7 @@
 - [ ] Network Automation
 - [ ] Infrastructure Automation
 - [ ] Security Automation
-- [ ] Development and Operations Integration (DevOps)
+- [ ] Development and Operations Integration (DevOps) `X`
 
 #### Q11. For clients interested in modernizing and/or building cloud native applications, who are the personas within the company that you should target for prospecting?
 
