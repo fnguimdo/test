@@ -142,7 +142,7 @@
 
 - [ ] Determined hybrid cloud infrastructure is key to operations to build and run infrastructure efficiency
 - [ ] Focused on building cloud native applications quickly
-- [ ] Looking specifically for a container platform to run and manage containers better
+- [ ] Looking specifically for a container platform to run and manage containers better `X`
 - [ ] Broadly trying to transform the business and understand what the implications will be
 
 #### Q22. There are many elements of the Red Hat OpenShift Container Platform that should excite any IT operations audience you're speaking to. Which one of the following benefits will resonate particularly well with these teams?
