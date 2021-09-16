@@ -14,10 +14,10 @@
 
 #### Q3. Automation has provided tremendous benefits, to both organizations and individuals, for generations. Automation platforms like Red Hat Ansible Automation Platform make it possible to orchestrate enterprise IT environments, as well. According to Forrester Research's taxonomy for automation, what two automation categories (of eight) does Ansible fall into?
 
-- [ ] Infrastructure and Development
+- [x] Infrastructure and Development
 - [ ] Decision and Marketing
 - [ ] Industrial and Process
-- [x] Engagement and Scale
+- [ ] Engagement and Scale
 
 #### Q4. One component of the Ansible Automation Platform platform is the Automation Hub. What benefit does it provide?
 
