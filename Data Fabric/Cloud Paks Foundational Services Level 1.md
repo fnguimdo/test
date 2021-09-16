@@ -132,14 +132,14 @@
 - [ ] IBM Cloud Satellite
 ### Q20. Which of the following priorities helps to provide Cloud Paks and Foundational Services with consistency in operations and delivery?
 
-- [ ] Metered API usage.
+- [x] Metered API usage.
 - [ ] Community-sourced projects.
 - [ ] Standards and certification.
 - [ ] Blockchain provenance.
 
 ### Q21. Why did IBM choose to re-organize the Cloud Paks and Foundational Services architecture into 3 core pillars?
 
-- [ ] Conversations with customers should first focus on what are the use cases and who are the personas of interest, then afterwards identify the relevant Cloud Paks.
+- [x] Conversations with customers should first focus on what are the use cases and who are the personas of interest, then afterwards identify the relevant Cloud Paks.
 - [ ] One pillar is targeted at "do it yourself" (DIY) deployments, a second pillar at customer-managed deployments, and a third pillar is for IBM-managed deployments.
 - [ ] One pillar is for on-premises, a second for public cloud, and a third pillar is for hybrid multicloud.
 - [ ] Going forward, there will only be 3 IBM Cloud Paks offered to the market.
@@ -147,7 +147,7 @@
 ### Q22. There are three core axioms in IBM and Red Hat's philosophy towards the Cloud Paks Platform we are building towards. Of the four statements below, which is NOT one of those core values?
 
 - [ ] Run in containers
-- [ ] Run transparently
+- [x] Run transparently
 - [ ] Run any workload
 - [ ] Run anywhere
 
@@ -156,7 +156,7 @@
 - [ ] Look up the cost per API call to Foundational Services on Seismic.
 - [ ] Look up the SKU numbers in the IBM Catalog.
 - [ ] Email your IBM sales representative for pricing information.
-- [ ] Since the Foundational Services aren't something we sell directly, it's best to focus on their value to the IBM Cloud Paks and improved customer experience they offer.
+- [x] Since the Foundational Services aren't something we sell directly, it's best to focus on their value to the IBM Cloud Paks and improved customer experience they offer.
 
 ### Q24. Foundational Services interoperate and sit between which layers of the Cloud Paks Platform architecture?
 
