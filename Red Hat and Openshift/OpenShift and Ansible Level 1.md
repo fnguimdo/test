@@ -57,7 +57,7 @@
 #### Q9. Red Hat Ansible Automation Platform uses YAML (Yet Another Markup Language) to define automation jobs in a way that everyone in an IT organization can read and understand. In a client conversation, how would you describe the benefit of YAML to a business?
 
 - [ ] Provides governance
-- [ ] Simplifies implementation
+- [ ] Simplifies implementation `X`
 - [ ] Empowers more users
 - [ ] Cuts costs
 
