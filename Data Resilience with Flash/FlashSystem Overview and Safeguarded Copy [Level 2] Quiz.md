@@ -134,7 +134,7 @@
 #### Q20. What is the 2:1, sight unseen, effective capacity of the largest member of the FlashCore Module line up?
 
 - [ ] 38.4TB
-- [ ] 19.2TB
+- [ ] 19.2TB `X`
 - [ ] 9.6TB `X`
 - [ ] 76.8TB
 
