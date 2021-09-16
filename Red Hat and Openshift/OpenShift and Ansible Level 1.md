@@ -50,7 +50,7 @@
 #### Q8. Many different personas across an enterprise can benefit from Ansible Automation Platform's orchestration, configuration management, deployment, and provisioning capabilities. But it pays to understand your target audience as a seller. Who should you approach if a client needs solutions that mitigate automation risks and align responses with policies?
  
 - [ ] IT roles
-- [ ] Security roles
+- [x] Security roles
 - [ ] Line-of-business roles
 - [ ] Networking roles
 
