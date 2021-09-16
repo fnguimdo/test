@@ -136,7 +136,7 @@
 - [ ] 38.4TB
 - [ ] 19.2TB `X`
 - [ ] 9.6TB `X`
-- [ ] 76.8TB
+- [x] 76.8TB
 
 #### Q21. IBM has introduced a number of ways for FlashSystem solutions to be used as part of an overall cloud-capable storage strategy. IBM supports an automation software that enables Cloud Provisioning, Configuration Management, Intra-Service Orchestration, and Application Development. What is it called?
 
