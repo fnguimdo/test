@@ -163,7 +163,7 @@
 
 - [ ] Infrastructure Automation `X`
 - [ ] Security Automation
-- [ ] Development and Operations Integration (DevOps)
+- [x] Development and Operations Integration (DevOps)
 - [ ] Network Automation
 
 #### Q25. IBM Services supplies multiple engagements designed to facilitate cloud journey conversations with clients, especially those involving Red Hat. There are four key themes: Advise, Move, Build, and a fourth. What is the fourth theme that IBM Services can deliver as a client-tailored workshop?
