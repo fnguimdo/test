@@ -59,7 +59,7 @@
 - [ ] Provides governance
 - [ ] Simplifies implementation `X`
 - [ ] Empowers more users
-- [ ] Cuts costs
+- [ ] Cuts costs `X`
 
 #### Q10. IBM and Red Hat have defined four key use cases to look for when identifying Ansible Automation Platform opportunities. If a client needs to deliver virtual resources that span multiple environments in minutes, you should follow which selling pattern?
 
