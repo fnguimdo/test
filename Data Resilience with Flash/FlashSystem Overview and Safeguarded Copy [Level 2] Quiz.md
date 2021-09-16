@@ -8,7 +8,7 @@
 #### Q2. IBM’s acquisition of Red Hat has enabled our storage to support containerization and easy transportability between various clouds and on-premises environments with using an open standard. What software enables this?
 
 - [ ] Kubernetes
-- [ ] OpenShift
+- [X] OpenShift
 - [ ] Docker
 - [ ] RedShift
 
