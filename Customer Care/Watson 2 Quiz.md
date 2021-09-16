@@ -202,7 +202,7 @@
 - [ ] MAU is a slang word detection and resolution algorithm that was recently added to Watson Assistant.
 - [ ] MAU does not stand for anything, but it's measure for the number of 'clicks' a user takes. IBM will roll that up on a monthly basis to create a monthly charge.
 - [ ] MAU stands for Microservice Activation Unit. It is the functionality that allows for Watson Assistant to be deployed in a federated environment.
-- [ ] MAU stands for Monthly Active User. MAU is defined as any user who has a meaningful interaction with Watson Assistant in a month. Meaningful interactions are defined as any interaction where the user provides an input and Watson Assistant
+- [X] MAU stands for Monthly Active User. MAU is defined as any user who has a meaningful interaction with Watson Assistant in a month. Meaningful interactions are defined as any interaction where the user provides an input and Watson Assistant
 
 #### Q25. You are talking to a client whose Chief Information Officer (CIO) discovered that Watson Assistant is part of their licensed catalog as a result of an Enterprise License Agreement (ELA). They are definitely interested in doing something, but they are not sure where to start. You tell the CIO that Watson Assistant can help both internally and externally and write on the whiteboard what 3 patterns as the best place to start?  (Choose the best answer)
 
