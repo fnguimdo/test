@@ -28,7 +28,7 @@
 
 #### Q5. The FlashSystem family supports Distributed redundant array of inexpensive disk (DRAID) which delivers multiple benefits to clients. One of the significant benefits is the ability to non-disruptively increase the capacity of a DRAID group. How many drives can be added at one time?
  
-- [ ] 2-14
+- [ ] 2-14 `X`
 - [ ] 1-12
 - [ ] 1-8
 - [ ] 2-10
