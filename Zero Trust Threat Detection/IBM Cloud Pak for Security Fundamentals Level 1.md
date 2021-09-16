@@ -84,15 +84,15 @@
 
 #### Q13. One of your Cloud Pak for Security clients just received an IBM X-Force warning about the latest Microsoft Squatting Campaign. How can they verify that this threat is not threatening the company’s infrastructure?
 
-- [ ] Correlate the threat's Indicators of Compromise (IOCs) against the MITRE ATT&CK framework to validate if any of the company's infrastructure is vulnerable to the attack
+- [ ] Correlate the threat's Indicators of Compromise (IOCs) against the MITRE ATT&CK framework to validate if any of the company's infrastructure is vulnerable to the attack `X`
 - [ ] Verify that Cloud Pak for Security Risk Manager is not reporting any systems vulnerable to this threat
 - [ ] Validate the threat using Security Orchestration and Response (SOAR) `X`
-- [ ] Run the Threat Intelligence Insights “Am I Affected” report to determine whether this threat is present in the company’s network
+- [X] Run the Threat Intelligence Insights “Am I Affected” report to determine whether this threat is present in the company’s network
 
 #### Q14. What Threat Intelligence Insights (TII) functionality can perform continuous, automated searches across data sources and provides an adaptive, calculated risk score for possibly compromised items?
 
 - [ ] Data Explorer
-- [ ] Am I Affected
+- [X] Am I Affected
 - [ ] Am I Infected
 - [ ] Risk Manager
 
