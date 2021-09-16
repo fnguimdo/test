@@ -155,7 +155,7 @@
 #### Q23. When discussing Red Hat OpenShift with TECHNICAL EXECUTIVE and LOB audiences, you'll want to be on the lookout for particular pain points. What is a common point of friction for this audience that OpenShift can help to remedy?
 
 - [ ] Restrictions on choice of tooling and workflows
-- [ ] Platform installations and updates
+- [ ] Platform installations and updates `X`
 - [ ] Friction between siloed teams
 - [ ] Access to data science technologies
 
