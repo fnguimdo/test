@@ -148,7 +148,7 @@
 #### Q22. There are many elements of the Red Hat OpenShift Container Platform that should excite any IT operations audience you're speaking to. Which one of the following benefits will resonate particularly well with these teams?
 
 - [ ] RStudio for built-in data science capabilities
-- [ ] Removing the complexity of Kubernetes
+- [ ] Removing the complexity of Kubernetes `X`
 - [ ] Integration with reporting and analytics tools
 - [ ] Comprehensive container security
 
