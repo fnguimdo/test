@@ -56,9 +56,9 @@
 
 #### Q9. What is the minimum number of FlashSystem 9200s found in a FlashSystem 9200R?
  
-- [ ] 2
-- [ ] 4
-- [ ] 3
+- [X] 2
+- [ ] 4 `X`
+- [ ] 3 `X`
 - [ ] 1 `X`
 
 #### Q10. Which group of Spectrum Virtualize solutions support Safeguarded Copy and the the ability to virtualize external storage?
