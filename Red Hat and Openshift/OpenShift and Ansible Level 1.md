@@ -36,7 +36,7 @@
 #### Q6. IBM has put in place five key client conversations to help clients on their journey to cloud and cognitive enterprise. Of these, which one does the Red Hat Ansible Automation Platform align most closely with?
 
 - [ ] Manage IT
-- [ ] Build cloud native
+- [ ] Build cloud native `X`
 - [ ] Modernize applications `X`
 - [ ] Modernize data and analytics
 
