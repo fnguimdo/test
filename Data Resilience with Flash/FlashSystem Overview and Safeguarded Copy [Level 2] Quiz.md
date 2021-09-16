@@ -15,7 +15,7 @@
 #### Q3. What makes IBM’s Easy Tier unique?
  
 - [ ] It works on a whole logical unit number (LUN) basis
-- [ ] It uses artificial intelligence rather than Policies
+- [x] It uses artificial intelligence rather than Policies
 - [ ] It can differentiate between 7.2K and 10K hard disk drives (HDDs)
 - [ ] It uses central processing unit (CPU) cache memory for swap space `X`
 
