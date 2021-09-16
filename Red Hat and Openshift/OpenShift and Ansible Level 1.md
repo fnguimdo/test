@@ -156,7 +156,7 @@
 
 - [ ] Restrictions on choice of tooling and workflows `X`
 - [ ] Platform installations and updates `X`
-- [ ] Friction between siloed teams
+- [x] Friction between siloed teams
 - [ ] Access to data science technologies
 
 #### Q24. IBM and Red Hat have defined four key use cases to look for when identifying Ansible Automation Platform opportunities. If a client is struggling with manual processes that slow down moving proof-of-concepts (POCs) into production, you should follow which selling pattern?
