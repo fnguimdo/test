@@ -22,7 +22,7 @@
 #### Q4. One component of the Ansible Automation Platform platform is the Automation Hub. What benefit does it provide?
 
 - [ ] Integration of Webhook with GitLab and GitHub to automatically run automation or launch deployments.
-- [ ] Enables users to see how specific automation actions perform in detail, using aggregated statistics and data around modules and resources.
+- [ ] Enables users to see how specific automation actions perform in detail, using aggregated statistics and data around modules and resources. `X`
 - [ ] A centralized repository to publish content, and for clients to discover certified, supported Ansible Content Collections.
 - [ ] Packages and organizes Ansible content including modules, plugins, roles, and playbooks. `X`
 
