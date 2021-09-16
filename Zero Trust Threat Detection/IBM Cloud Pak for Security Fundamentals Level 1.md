@@ -98,14 +98,14 @@
 
 #### Q15. You are helping a client plan out a set of security approaches to keep their client's confidence in the wake of a number of security incidents in their industry. What security approach provides organizations with adaptive and continuous protection for users, data, and assets, as well as the ability to proactively manage threats?
 
-- [ ] Zero trust
+- [X] Zero trust
 - [ ] Reduce the risk of insider threats
 - [ ] Global trust
 - [ ] Protect the hybrid cloud
 
 #### Q16. Which Cloud Pak for Security solution enables Security Operations Centers (SOCs) to reduce time to remediate incidents while ensuring consistent responses?
 
-- [ ] Security Orchestration, Automation and Response
+- [X] Security Orchestration, Automation and Response
 - [ ] Data Explorer
 - [ ] Threat Investigator
 - [ ] Threat Intelligence Insights
@@ -114,36 +114,36 @@
 
 - [ ] Endpoint Detection and Response (EDR)
 - [ ] Network Detection and Response (NDR)
-- [ ] Security Information and Event Management (SIEM)
-- [ ] Security Orchestration, Automation and Response (SOAR)
+- [X] Security Information and Event Management (SIEM)
+- [ ] Security Orchestration, Automation and Response (SOAR) `X`
 
 #### Q18. A prospective client has standardized most of their operations on Microsoft Azure, but they still have a significant on-premises need as well. They need to deploy a security analytics platform that can run on Azure while supporting their on-premises environment, with built-in orchestration and case remediation. Which of the following solution meets the client’s requirements?
 
-- [ ] Cloud Pak for Security
-- [ ] Palo Alto Cortex
+- [X] Cloud Pak for Security
+- [ ] Palo Alto Cortex `X`
 - [ ] Google Chronicle
 - [ ] Microsoft Azure Sentinel
 
 #### Q19. A large Managed Security Services Provider (MSSP) complains that they have to perform searches against multiple tools in multiple customer environments because they cannot extract their customer's data to their Security Information and Event Management (SIEM) solution for analysis. Because of that, investigations take too long and are ineffective. How can you position Cloud Pak for Security to address their challenges?
 
 - [ ] Show how you can place a Cloud Pak for Security instance on each environment to resolve the problem
-- [ ] Demonstrate how Cloud Pak for Security can extract data from over 600 out-of-the-box data sources
-- [ ] Demonstrate how Federated Searches can search against multiple data sources without having to move the data
+- [ ] Demonstrate how Cloud Pak for Security can extract data from over 600 out-of-the-box data sources `X`
+- [X] Demonstrate how Federated Searches can search against multiple data sources without having to move the data
 - [ ] Demonstrate Risk Manager to show all the vulnerabilities in their systems
 
 #### Q20. Which security discipline makes it possible for the proper entities to use the right resources when they need to, without interference, using the devices they want to use, while maintaining a high level of security and utilizing zero trust principles?
  
 - [ ] Data Security
-- [ ] Identity and Access Management
+- [X] Identity and Access Management
 - [ ] Threat Management
-- [ ] Open Security Ecosystem
+- [ ] Open Security Ecosystem `X`
 
 #### Q21. One of your prospective clients is reluctant to move to the cloud. Which of these could be a major reason preventing their move?
 
 - [ ] Desire to be locked in with a single vendor
-- [ ] No trust in cloud service providers
+- [X] No trust in cloud service providers
 - [ ] Ease of hiring skilled cyber security workers
-- [ ] Decreasing number of remote workers
+- [ ] Decreasing number of remote workers `X`
 
 #### Q22. A security analyst is concerned that their company does not have complete visibility over their data because it is stored in multiple silos, making investigations difficult and time-consuming. Which key Cloud Pak for Security capabilities will help them resolve their concern? 
 
@@ -161,10 +161,10 @@
 
 #### Q24. You are working on a Cloud Pak for Security proposal for a medium-sized client who wants to license QRadar and who additionally wants usage-based pricing. What would the list price be for this client, who wants to license 25,000 Events per Second (EPS) and 350,000 Flows per Minute (FPM)?
 
-- [ ] $1,773,900
-- [ ] $323,849
-- [ ] $1,209,723
-- [ ] $854,000
+- [X] $1,773,900
+- [ ] $323,849 `X`
+- [ ] $1,209,723 `X`
+- [ ] $854,000 `X`
 
 #### Q25. A client needs help bridging the operational silos between the Security Operations Center (SOC) and compliance teams that have grown over time. They feel an investment in this area of their business would facilitate better compliance. What Cloud Pak for Security use case will help IBM deliver on this client need?
 
