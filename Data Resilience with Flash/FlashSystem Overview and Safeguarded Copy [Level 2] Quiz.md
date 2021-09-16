@@ -162,7 +162,7 @@
 #### Q24. What makes Easy Tier so efficient that it can deliver impressive results with even when using only a small percentage of truly high-performance storage?
  
 - [ ] It relies on the use of central processing unit (CPU) cache memory for swap space
-- [ ] It works on a sub-logical unit number (LUN) basis
+- [x] It works on a sub-logical unit number (LUN) basis
 - [ ] It uses a brute force algorithm to predict what should be moved
 - [ ] It works through an advanced hyperlink connection
  
