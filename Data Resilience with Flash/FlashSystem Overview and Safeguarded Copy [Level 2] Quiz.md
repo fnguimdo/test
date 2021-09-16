@@ -129,7 +129,7 @@
 - [ ] FlashSystem 5015
 - [ ] FlashSystem 5035
 - [ ] FlashSystem 7200
-- [ ] FlashSystem 5200
+- [x] FlashSystem 5200
 
 #### Q20. What is the 2:1, sight unseen, effective capacity of the largest member of the FlashCore Module line up?
 
