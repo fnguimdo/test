@@ -79,7 +79,7 @@
 
 - [ ] Platform installations and updates `x`
 - [ ] Access to data science technologies
-- [ ] Friction between siloed teams
+- [ ] Friction between siloed teams `x`
 - [ ] Restrictions on choice of tooling and workflows
 
 #### Q13. For clients looking for innovative business models and launch new applications to transform the way their business is run, who are the personas within the company that you should target for prospecting?
