@@ -9,7 +9,7 @@
 
 - [x] Flexibility, simplicity, and economics.
 - [ ] Patented solutions, fixed pricing, and closed loop ecosystems.
-- [ ] Open, free, and fair.`WRONG`
+- [ ] Open, free, and fair.`X`
 - [ ] Innovative, boundary-pushing, and interoperable.
 
 #### Q3. Automation has provided tremendous benefits, to both organizations and individuals, for generations. Automation platforms like Red Hat Ansible Automation Platform make it possible to orchestrate enterprise IT environments, as well. According to Forrester Research's taxonomy for automation, what two automation categories (of eight) does Ansible fall into?
@@ -161,7 +161,7 @@
 
 #### Q24. IBM and Red Hat have defined four key use cases to look for when identifying Ansible Automation Platform opportunities. If a client is struggling with manual processes that slow down moving proof-of-concepts (POCs) into production, you should follow which selling pattern?
 
-- [ ] Infrastructure Automation
+- [ ] Infrastructure Automation `X`
 - [ ] Security Automation
 - [ ] Development and Operations Integration (DevOps)
 - [ ] Network Automation
