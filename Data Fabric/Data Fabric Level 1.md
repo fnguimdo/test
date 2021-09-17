@@ -70,44 +70,44 @@
 
 #### Q11. What key technology of IBM's data fabric solution delivers semantic enrichment and understanding of business-ready data?
 
-- [ ] AutoPrivacy
+- [ ] AutoPrivacy `X`
 - [ ] AutoAI `X`
-- [ ] AutoCatalog
+- [X] AutoCatalog
 - [ ] AutoSQL
 
 #### Q12. There are many business benefits that clients can gain by adopting a data fabric architecture. What is a major benefit of a data fabric (for many organiations, this is the main reason to adopt a data fabric), which is different from other data management architectures they might have implemented in the past?
 
-- [ ] The protection and security of confidential, personally identifiable, and sensitive information
-- [ ] Utilizing AI and machine learning technologies to increase their level of automation
-- [ ] Knowledge insights are easily achieved by enabling self-service data consumption and collaboration
+- [ ] The protection and security of confidential, personally identifiable, and sensitive information `X`
+- [ ] Utilizing AI and machine learning technologies to increase their level of automation `X`
+- [X] Knowledge insights are easily achieved by enabling self-service data consumption and collaboration
 - [ ] Increased agility, security, and productivity
 
 #### Q13. Clients need to understand the landscape or patterns of their data, and a data fabric is the map that helps them do that. How is a data fabric like a map?
 
-- [ ] It tells you where data is and how it travels
-- [ ] It creates a literal map of how to understand your data
-- [ ] It shows how to collect different data types
-- [ ] A data fabric visually displays the location of data sources
+- [X] It tells you where data is and how it travels
+- [ ] It creates a literal map of how to understand your data `X`
+- [ ] It shows how to collect different data types `X`
+- [ ] A data fabric visually displays the location of data sources `X`
 
 #### Q14. There are some established vendors from the data integration space (like Microsoft, Informatica, and TIBCO), who offer many of the capabilities needed for a data fabric solution. If you have clients interested in a data fabric solution who you know are considering another data integration vendor, what are the IBM value propositions you should promote to them?
 
-- [ ] Hybrid cloud deployments, scalability, integration of other software
-- [ ] Industry leadership in the data integration, quality, and governance space
-- [ ] Annual operational expenditures and total cost of ownership
-- [ ] The range of services, security, and reliability of the vendor's public cloud
+- [X] Hybrid cloud deployments, scalability, integration of other software
+- [ ] Industry leadership in the data integration, quality, and governance space `X`
+- [ ] Annual operational expenditures and total cost of ownership `X`
+- [ ] The range of services, security, and reliability of the vendor's public cloud `X`
 
 #### Q15. A Chief Data Officer from one of your clients has been discussing data fabric solutions with analysts and IBM competitors. She has observed how different vendors describe a data fabric in ways that reflect the limitations of their offerings. To counter the competitive messaging that she's heard, how do you present IBM's definition of the data fabric concept as implemented in Cloud Pak for Data?
 
-- [ ] A set of integrated self-service tools to provide everyone in your organization with the ability to find, explore, and ask questions against all available data.
-- [ ] Integrated data integration, data quality, master data, data preparation, and data governance tools, which feeds data into a fully automated AI model creation tool.
-- [ ] A data integration platform that delivers data to warehouses and data lakes on the cloud of your choice, where it's cataloged and ready for users to explore.
-- [ ] A data lake framework that centralizes all of an organization's data and provides self-service access to this data through a variety of multi-disciplinary tools.
+- [X] A set of integrated self-service tools to provide everyone in your organization with the ability to find, explore, and ask questions against all available data.
+- [ ] Integrated data integration, data quality, master data, data preparation, and data governance tools, which feeds data into a fully automated AI model creation tool. `X`
+- [ ] A data integration platform that delivers data to warehouses and data lakes on the cloud of your choice, where it's cataloged and ready for users to explore. `X`
+- [ ] A data lake framework that centralizes all of an organization's data and provides self-service access to this data through a variety of multi-disciplinary tools. `X`
 
 #### Q16. According to Forrester, what percent of all data within an enterprise goes unused for analytics?
 
-- [ ] 60 - 73%
+- [X] 60 - 73%
 - [ ] 83 - 92%
-- [ ] 75 - 86%
+- [ ] 75 - 86% `X`
 - [ ] 55 - 68%
 
 #### Q17. To progress qualified opportunities, IBM offers a free four-to-six week engagement with experts who will work with a client on building out a Minimal Viable Product (MVP) of a data fabric solution. This engagement features an initial assessment of the client's data challenges and use cases, an execution phase to build the MVP, and delivery of a final report, which outlines recommendations and a proposal for bringing the MVP to a production state. What team offers this engagement?
@@ -115,28 +115,28 @@
 - [ ] IBM Lab Services
 - [ ] IBM Expert Labs
 - [ ] IBM Global Business Solutions
-- [ ] IBM Data Elite Team
+- [X] IBM Data Elite Team
 
 #### Q18. You're engaging with a client for the data fabric for Customer 360 use case. Their marketing team is developing a data-driven strategy to support their campaigns, and they are looking to target highly customized ads based on current 360 degree views of their existing customers. Which one of the following sets of Cloud Pak for Data capabilities should you propose in a solution for your client?
 
 - [ ] Watson Knowledge Catalog, Match 360, Data Replication
 - [ ] Watson Knowledge Catalog, Match 360, Master Data Management
 - [ ] Watson Knowledge Catalog, Match 360, Watson Studio
-- [ ] Watson Knowledge Catalog, Match 360, Cognos Analytics
+- [X] Watson Knowledge Catalog, Match 360, Cognos Analytics
 
 #### Q19. The world is flooded with data; the amount collected day-to-day is increasing exponentially. What is a common struggle for clients when it comes to their data?
 
 - [ ] Figuring out what data to collect
-- [ ] Choosing the proper storage
+- [ ] Choosing the proper storage `X`
 - [ ] Collecting enough data 
-- [ ] Closing the gap of understanding
+- [X] Closing the gap of understanding
 
 #### Q20. Which of the following competitors also refers to their solution as a "data fabric"? 
 
-- [ ] Informatica
-- [ ] Denodo
+- [ ] Informatica `X`
+- [X] Denodo
 - [ ] Microsoft
-- [ ] Snowflake
+- [ ] Snowflake `X`
 
 #### Q21. There are many definitions of the data fabric concept. What is the key component of the data fabric architecture that truly defines it?
 
@@ -168,9 +168,9 @@
 
 #### Q25. You're working with a client on what initially looked like a data science opportunity. Their Chief Data Office has strict policies on access to data with sensitive customer fields. The IT team does not have the time and staff to create replicas of the data sets to remove sensitive fields. This opportunity clearly aligns with the data fabric for data science use case. Which one of the following sets of Cloud Pak for Data capabilities should you propose in a solution for your client?
 
-- [ ] Watson Knowledge Catalog, Watson Studio, Data Virtualization, and Data Replication
-- [ ] Watson Knowledge Catalog, Watson Studio, Master Data Management, and Data Privacy
-- [ ] Watson Knowledge Catalog, Watson Studio, Data Virtualization, and Data Privacy
+- [ ] Watson Knowledge Catalog, Watson Studio, Data Virtualization, and Data Replication `X`
+- [ ] Watson Knowledge Catalog, Watson Studio, Master Data Management, and Data Privacy `X`
+- [X] Watson Knowledge Catalog, Watson Studio, Data Virtualization, and Data Privacy
 - [ ] Watson Knowledge Catalog, Watson Studio, Master Data Management, and Data Replication `X`
 
 
