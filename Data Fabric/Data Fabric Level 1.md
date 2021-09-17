@@ -64,9 +64,9 @@
 #### Q10. There has been a steady evolution in the best practices organizations use to analyze their data. Why is there a need for a data fabric in addition to data lakes, data warehouses, and databases?
 
 - [ ] A data fabric eliminates the need for other technologies `X`
-- [X] A data fabric creates more data silos 
+- [ ] A data fabric creates more data silos `X`
 - [ ] A data fabric creates less data silos`X`
-- [ ] A data fabric creates a consistent view of data across all sources `X`
+- [X] A data fabric creates a consistent view of data across all sources 
 
 #### Q11. What key technology of IBM's data fabric solution delivers semantic enrichment and understanding of business-ready data?
 
