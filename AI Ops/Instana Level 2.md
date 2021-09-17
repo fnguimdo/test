@@ -29,9 +29,9 @@
 #### Q5. You're presenting the topic of Observability vs. Monitoring at a regional user group (RUG) meeting and close out your session by talking about Instana and then open it up for a Q&A session. Someone asks you "What makes Instana's profiling capabilities unique and differentiated", You say
  
 - [ ] Since Instana provides line-of-code visibility all the time, there is no need for profiling
-- [X] Instana provides a snapshot of the application stack so that the profiler can replicate what happened in production
+- [ ] Instana provides a snapshot of the application stack so that the profiler can replicate what happened in production
 - [ ] The capability helps kick-off an on-demand profiling session on any supported code base
-- [ ] Instana profiling is an automated and continuous production profiler which enables clients' to continuously analyze code-level performance in production 
+- [X] Instana profiling is an automated and continuous production profiler which enables clients' to continuously analyze code-level performance in production 
 
 #### Q6. A request for proposal (RFP) has come to your team around the topic of automation for both IT and business. You're obviously expecting some stiff competition for this business. What Instana differentiator would be the best to ensure is included in the RFP's response?
  
