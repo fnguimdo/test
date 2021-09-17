@@ -142,7 +142,7 @@
 
 - [ ] It must be closely aligned to DataOps (data operations) and initiatives for data modernization
 - [ ] Connects data from multiple sources
-- [ ] Simplifies and addresses the complexity of data management
+- [X] Simplifies and addresses the complexity of data management
 - [ ] It is built with the help of container-based technologies (such as Kubernetes)
 
 #### Q22. Traditional database management systems and architectures have been established fixtures in data centers for decades. With the introduction of a data fabric, what role do these traditional database management systems like data warehouses, data lakes, data hubs and relational databases play in a data fabric architecture?
@@ -150,20 +150,20 @@
 - [ ] They become obsolete and are no longer needed
 - [ ] They are considered legacy systems and don't need new investment
 - [ ] They are combined into a single proprietary data fabric data store
-- [ ] They become active participants in a unified approach
+- [X] They become active participants in a unified approach
 
 #### Q23. IBM has bold plans for enhancing the data fabric capabilities in Cloud Pak for Data, in particular for business users. What major capability is being planned for business users?
 
 - [ ] Intent and purpose-based data protection models
 - [ ] Automated data preparation for common reporting use cases
 - [ ] Natural language-based data visualization
-- [ ] A shopping for data experience with automated data movement
+- [X] A shopping for data experience with automated data movement
 
 #### Q24. A properly deployed data fabric solution involves many different user personas. Which persona in an organization is responsible for the definition, association, and enforcement of data policies and rules (and is also the beneficiary of the automation of these tasks within Cloud Pak for Data)?
 
 - [ ] Chief Data Officer
 - [ ] Data engineer
-- [ ] Data steward
+- [X] Data steward
 - [ ] Data quality analyst
 
 #### Q25. You're working with a client on what initially looked like a data science opportunity. Their Chief Data Office has strict policies on access to data with sensitive customer fields. The IT team does not have the time and staff to create replicas of the data sets to remove sensitive fields. This opportunity clearly aligns with the data fabric for data science use case. Which one of the following sets of Cloud Pak for Data capabilities should you propose in a solution for your client?
