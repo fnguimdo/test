@@ -113,27 +113,27 @@
 #### Q17. You're putting together a list of Instana value propositions for enterprise observability. What value proposition will you NOT list:
 
 - [ ] Full trace dataset identifies code-level bottlenecks `X`
-- [ ] Immediate root cause analysis & incident resolution
-- [ ] Optimize infrastructure spend
+- [ ] Immediate root cause analysis & incident resolution `X`
+- [X] Optimize infrastructure spend
 - [ ] Automated discovery, configuration & workflows `X`
 
 #### Q18. You're monitoring the Chat window in a WebEx call with a client while the technical seller is demoing Instana, Turbonomics, and IBM AIOps working side-by-side. One of the questions reads, "You briefly mentioned Instana's Intelligent Action capability and it's value to an organization but I stepped out. Can you please let me know what I missed". You type, "Instana's Intelligent Action is amazing because ...."
  
 - [ ] It allows users to proactively and intelligently find trace data. Alert users when infrastructure performance is declining and support auto-scaling cloud spend.
 - [ ] It allows users to use an alert engine that utilizes AI to intelligently and automatically generate alerts.
-- [ ] It allows users to proactively detect and remediate issues with an understanding of contributing factors. Analyze every user request from any perspective to quickly find and resolve every bottleneck.
+- [X] It allows users to proactively detect and remediate issues with an understanding of contributing factors. Analyze every user request from any perspective to quickly find and resolve every bottleneck.
 - [ ] It allows users to tag business critical services so they can be prioritized to meet company service level objectives. Automatic action on infrastructure alerts.
 
 #### Q19. A junior sales rep asked you to look at some claims they pulled from a client-hired consultant's summary of Instana because they don't think they are true. Putting the shock aside that someone could be paid for such poor work, you tell the junior seller these are all wrong BUT one. Which of the following statements about Instana is TRUE?
 
 - [ ] Instana's founders have their roots in cyber security, creating Instana to drive secure Observability as companies began to adopt DevSecOps.
-- [ ] Instana primarily sells to Financial sector due to its strict adherence to AS9000 regulation for Application Performance Monitoring.
+- [ ] Instana primarily sells to Financial sector due to its strict adherence to AS9000 regulation for Application Performance Monitoring. `X`
 - [ ] Instana was created to fill a gap in the Application Performance Monitoring  (APM) industry for enterprises needing to monitor mainframe and legacy infrastructure.
-- [ ] Instana re-imagined what Observability and Application Performance Monitoring (APM) mean for cloud-native, microservices, containerized, and orchestrated applications.
+- [X] Instana re-imagined what Observability and Application Performance Monitoring (APM) mean for cloud-native, microservices, containerized, and orchestrated applications.
 
 #### Q20. You're explaining to a client how a true enterprise observability platform like Instana helps mitigate risk, they stop you and request more details. You tell them that Instana can mitigate risk because it ...
  
-- [ ] Removes application inter-dependencies `~`
+- [ ] Removes application inter-dependencies 
 - [ ] Provides proactive, actionable, realtime visibility of a customer’s applications
 - [ ] Provides full sampling
 - [ ] Has no gaps in visibility of applications including legacy applications
