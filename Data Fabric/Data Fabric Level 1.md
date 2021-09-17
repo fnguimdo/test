@@ -71,7 +71,7 @@
 #### Q11. What key technology of IBM's data fabric solution delivers semantic enrichment and understanding of business-ready data?
 
 - [ ] AutoPrivacy
-- [ ] AutoAI
+- [ ] AutoAI `X`
 - [ ] AutoCatalog
 - [ ] AutoSQL
 
