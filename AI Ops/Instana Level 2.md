@@ -24,12 +24,12 @@
 - [ ] As applications modernize, legacy Application Performance Monitoring (APM) tools collect too much data
 - [ ] As applications are refactored to Microservices, the number of components decreases, making it more difficult to have visibility
 - [ ] As applications are refactored to Microservices, the number of connections between services decreases, making it more difficult to have visibility
-- [ ] Those very things that are streamlining application development make it harder to monitor and remediate and stabilize the production deployments
+- [X] Those very things that are streamlining application development make it harder to monitor and remediate and stabilize the production deployments
 
 #### Q5. You're presenting the topic of Observability vs. Monitoring at a regional user group (RUG) meeting and close out your session by talking about Instana and then open it up for a Q&A session. Someone asks you "What makes Instana's profiling capabilities unique and differentiated", You say
  
 - [ ] Since Instana provides line-of-code visibility all the time, there is no need for profiling
-- [ ] Instana provides a snapshot of the application stack so that the profiler can replicate what happened in production
+- [X] Instana provides a snapshot of the application stack so that the profiler can replicate what happened in production
 - [ ] The capability helps kick-off an on-demand profiling session on any supported code base
 - [ ] Instana profiling is an automated and continuous production profiler which enables clients' to continuously analyze code-level performance in production 
 
@@ -38,14 +38,7 @@
 - [ ] The ability to detect hidden issues with machine learning
 - [ ] The ability to infer traceability (Inferred Transaction Paths)
 - [ ] The ability to provides multiple agents for each host
-- [ ] High data fidelity (100% traces / 1-second metric resolution)
-
-You're in tough competition for a big observability deal. You know the competitors and the proposal process is pretty open in that you can see each competing vendor's claims as the procurement office demands full transparency. You double-check to ensure everything you are saying about your competitors is true so you don't lose credibility.  Which of the following statements about Instana's competitors is NOT TRUE?
- 
-- [ ] Competitors require manual setup for alert thresholds and dashboards.
-- [ ] Competitors create silos of data and sampled traces (snapshots) and this prevents IT staff from getting full context of all application interdependencies.
-- [ ] Competitors' pricing is simple, predictable, and all-inclusive.
-- [ ] Competitors gather traces through sampling, leading to missing traces and this limits troubleshooting data to what’s available.
+- [X] High data fidelity (100% traces / 1-second metric resolution)
 
 #### Q7. You just found out that you get paid on Instana, which is pretty exciting considering how it is well thought of in the industry. The problem is you're not just brand new to Instana, you're a brand new seller at IBM. As you meet with your manager to understand your accounts, because you did your Instana training, what account characteristics would be a great place to make your very first Instana call?
  
@@ -173,4 +166,9 @@ You're in tough competition for a big observability deal. You know the competito
 - [ ] You can integrate Instana with a log analysis partner such as Coralogix or Humio to get access to log data and analysis
 - [ ] Instana collects all the log data, but the data is not available to users as they don't need to see it or use it
 
-
+### Q25. You're in tough competition for a big observability deal. You know the competitors and the proposal process is pretty open in that you can see each competing vendor's claims as the procurement office demands full transparency. You double-check to ensure everything you are saying about your competitors is true so you don't lose credibility.  Which of the following statements about Instana's competitors is NOT TRUE?
+ 
+- [ ] Competitors require manual setup for alert thresholds and dashboards.
+- [ ] Competitors create silos of data and sampled traces (snapshots) and this prevents IT staff from getting full context of all application interdependencies.
+- [ ] Competitors' pricing is simple, predictable, and all-inclusive.
+- [ ] Competitors gather traces through sampling, leading to missing traces and this limits troubleshooting data to what’s available.
