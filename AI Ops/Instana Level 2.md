@@ -166,7 +166,7 @@
 - [ ] You can integrate Instana with a log analysis partner such as Coralogix or Humio to get access to log data and analysis
 - [ ] Instana collects all the log data, but the data is not available to users as they don't need to see it or use it
 
-### Q25. You're in tough competition for a big observability deal. You know the competitors and the proposal process is pretty open in that you can see each competing vendor's claims as the procurement office demands full transparency. You double-check to ensure everything you are saying about your competitors is true so you don't lose credibility.  Which of the following statements about Instana's competitors is NOT TRUE?
+#### Q25. You're in tough competition for a big observability deal. You know the competitors and the proposal process is pretty open in that you can see each competing vendor's claims as the procurement office demands full transparency. You double-check to ensure everything you are saying about your competitors is true so you don't lose credibility.  Which of the following statements about Instana's competitors is NOT TRUE?
  
 - [ ] Competitors require manual setup for alert thresholds and dashboards.
 - [ ] Competitors create silos of data and sampled traces (snapshots) and this prevents IT staff from getting full context of all application interdependencies.
