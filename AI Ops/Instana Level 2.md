@@ -91,31 +91,31 @@
 
 #### Q14. You're talking to a client who asks if Synthetics Monitoring is included in Instana. Which is the best response?
  
-- [ ] Instana doesn't provide synthetics monitoring, but it offers real-time change detection, 1-second granularity, and 3-second alerting
-- [ ] Instana is working on making a killer synthetics monitoring capability that takes advantage of differentiated automation, full-stack context, and intelligent actions
+- [ ] Instana doesn't provide synthetics monitoring, but it offers real-time change detection, 1-second granularity, and 3-second alerting `X`
+- [ ] Instana is working on making a killer synthetics monitoring capability that takes advantage of differentiated automation, full-stack context, and intelligent actions `X`
 - [ ] IBM has an established synthetics monitoring solution that can integrate data through a REST API into Instana `X`
-- [ ] Currently, synthetic monitoring is available through integration with Apica and native synthetic monitoring is in IBM near term roadmap
+- [X] Currently, synthetic monitoring is available through integration with Apica and native synthetic monitoring is in IBM near term roadmap
 
 #### Q15. In a presentation to a client, you make the bold claim that Instana's Application Performance Management (APM) automation is different from other vendors. Someone asks "How so?". One of the things you could say is ...
 
 - [ ] Instana automation integrates with Grafana to gather "golden" signals.
-- [ ] Instana uses a single agent per host to automatically and continuously discover all components.
+- [X] Instana uses a single agent per host to automatically and continuously discover all components.
 - [ ] Instana automation allows developers to tag their code for easy monitoring at runtime.
 - [ ] Instana automation integrates with Ansible to take corrective actions.
 
 #### Q16. You're whiteboarding on the topic of observability to a client and hitting on some key points that are required for a world-class observability solution, which of course is Instana. You're drawing icons that represent the ability to filter out the noise to quickly identify bottlenecks related to applications? What Instana capabilty are you talking about?
 
 - [ ] Dynamic alerts
-- [ ] Dynamic graph
+- [ ] Dynamic graph `X`
 - [ ] Digital monitoring
-- [ ] Application perspectives
+- [X] Application perspectives
 
 #### Q17. You're putting together a list of Instana value propositions for enterprise observability. What value proposition will you NOT list:
 
-- [ ] Full trace dataset identifies code-level bottlenecks
+- [ ] Full trace dataset identifies code-level bottlenecks `X`
 - [ ] Immediate root cause analysis & incident resolution
 - [ ] Optimize infrastructure spend
-- [ ] Automated discovery, configuration & workflows
+- [ ] Automated discovery, configuration & workflows `X`
 
 #### Q18. You're monitoring the Chat window in a WebEx call with a client while the technical seller is demoing Instana, Turbonomics, and IBM AIOps working side-by-side. One of the questions reads, "You briefly mentioned Instana's Intelligent Action capability and it's value to an organization but I stepped out. Can you please let me know what I missed". You type, "Instana's Intelligent Action is amazing because ...."
  
