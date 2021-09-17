@@ -43,22 +43,22 @@
 #### Q7. You just found out that you get paid on Instana, which is pretty exciting considering how it is well thought of in the industry. The problem is you're not just brand new to Instana, you're a brand new seller at IBM. As you meet with your manager to understand your accounts, because you did your Instana training, what account characteristics would be a great place to make your very first Instana call?
  
 - [ ] Companies with Heroku, Azure Functions and Windows Specific Containers
-- [ ] Companies moving to cloud-native and other modern technologies
-- [ ] Companies not using containers, Kubernetes and microservices
+- [X] Companies moving to cloud-native and other modern technologies
+- [ ] Companies not using containers, Kubernetes and microservices `X`
 - [ ] Companies looking to monitor legacy infrastructures
 
 #### Q8. You walk into a room and are ready to start presenting to a client about Instana and you notice the Gartner 2021 Application Performance Management (APM) Magic Quadrant (MQ) report in front of the IT manager that is responsible for business continuity. Seeing this, you make a mental note to ensure you say what during your presentation?
  
-- [ ] Gartner MQ for Application Performance Monitoring (APM) is not relevant. Instana is the leader in Gartner MQ for Observability.
-- [ ] Instead of trusting Gartner MQ, take a look at the real experts in the Observability industry “APM Experts”, who ranked Instana #1.
+- [X] Gartner MQ for Application Performance Monitoring (APM) is not relevant. Instana is the leader in Gartner MQ for Observability.
+- [ ] Instead of trusting Gartner MQ, take a look at the real experts in the Observability industry “APM Experts”, who ranked Instana #1. `X`
 - [ ] Instana moved up and to the right, while the legacy APM tools moved down. Instana is disrupting the industry. G2 Crowd rates Instana very highly against the competition.
-- [ ] Due to the purchase of Instana, only the IBM logo could be included in the Gartner MQ this year. Next year, IBM and Instana's combined capabilities will be well-positioned against competitors.
+- [ ] Due to the purchase of Instana, only the IBM logo could be included in the Gartner MQ this year. Next year, IBM and Instana's combined capabilities will be well-positioned against competitors. `X`
 
 #### Q9. If you're selling Instana, you're going to have to be crisp and clear about how Observability is different than Application Performance Management (APM). To help you remember, you come up with a short phrase you promise to say to yourself twenty times a day for the next week. What's the phrase you choose?
 
-- [ ] Observability extends Application Performance Monitoring (APM) because it includes automatic remediation of the problem.
-- [ ] Observability lets you see when something is wrong. APM enables you to proactively get alerts on it.
-- [ ] APM tells you when something is wrong. Observability enables you to understand why.
+- [ ] Observability extends Application Performance Monitoring (APM) because it includes automatic remediation of the problem. `X`
+- [ ] Observability lets you see when something is wrong. APM enables you to proactively get alerts on it. `X`
+- [X] APM tells you when something is wrong. Observability enables you to understand why.
 - [ ] APM is a super-set that includes Observability.
 
 #### Q10. What is a method of data gathering that omits parts of the data set and creates gaps in in visibility?
@@ -66,18 +66,18 @@
 - [ ] Tracing
 - [ ] Outliers
 - [ ] Dynamic graph
-- [ ] Sampling
+- [X] Sampling
 
 #### Q11. Instana has a long list of happy clients that can showcase true business as a result of the Instana observability platform. What are some of the validated proof points from Instana customers?
 
-- [ ] An increase in overall availability with the ability to observe applications with 3-second latency
-- [ ] A decrease in Mean Time to Resolve (MTTR) and a decrease in cloud spend
-- [ ] A decrease in Mean Time to Detect (MTTD) and a decrease in Return on Investment (ROI)
-- [ ] A decrease in deploy rate and an increase in cloud efficiency
+- [ ] An increase in overall availability with the ability to observe applications with 3-second latency `X`
+- [X] A decrease in Mean Time to Resolve (MTTR) and a decrease in cloud spend
+- [ ] A decrease in Mean Time to Detect (MTTD) and a decrease in Return on Investment (ROI) `X`
+- [ ] A decrease in deploy rate and an increase in cloud efficiency `X`
 
 #### Q12. Why is Instana Context a core capability in enterprise observability?
  
-- [ ] It captures, remembers and displays the relationships between different data entities so that users can see those relationships in real time.
+- [X] It captures, remembers and displays the relationships between different data entities so that users can see those relationships in real time.
 - [ ] It provides a curated knowledge base of health signatures continuously compared against the incoming metrics.
 - [ ] It provides immediate feedback of pipeline and canary deployments.
 - [ ] It provides a correlated sequence of events and issues identifying the exact source of the problem.
@@ -86,14 +86,14 @@
  
 - [ ] The number of virtual machines in a traditional, virtualized environment,  on which there is any workload you want to monitor
 - [ ] The number of virtual machines in public clouds, on which there is any workload you want to monitor
-- [ ] The number of worker nodes in a Kubernetes clusters on which there is any workload you want to monitor
-- [ ] The number of containers in a Kubernetes clusters on which there is any workload you want to monitor
+- [ ] The number of worker nodes in a Kubernetes clusters on which there is any workload you want to monitor `X`
+- [X] The number of containers in a Kubernetes clusters on which there is any workload you want to monitor
 
 #### Q14. You're talking to a client who asks if Synthetics Monitoring is included in Instana. Which is the best response?
  
 - [ ] Instana doesn't provide synthetics monitoring, but it offers real-time change detection, 1-second granularity, and 3-second alerting
 - [ ] Instana is working on making a killer synthetics monitoring capability that takes advantage of differentiated automation, full-stack context, and intelligent actions
-- [ ] IBM has an established synthetics monitoring solution that can integrate data through a REST API into Instana
+- [ ] IBM has an established synthetics monitoring solution that can integrate data through a REST API into Instana `X`
 - [ ] Currently, synthetic monitoring is available through integration with Apica and native synthetic monitoring is in IBM near term roadmap
 
 #### Q15. In a presentation to a client, you make the bold claim that Instana's Application Performance Management (APM) automation is different from other vendors. Someone asks "How so?". One of the things you could say is ...
