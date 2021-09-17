@@ -143,12 +143,12 @@
 - [ ] Companies with workload using Heroku, Azure Functions, and Windows Specific Containers.
 - [ ] Companies looking to optimize mainframe applications.
 - [ ] Companies running SAP systems on bare-metal servers.
-- [ ] Companies running modernized applications in virtualized environments and public cloud.
+- [X] Companies running modernized applications in virtualized environments and public cloud.
 
 #### Q22. Why don't you want to do an apples-to-apples comparison of Turbonomic with other vendor solutions?
 
 - [ ] Because Turbonomics has a number of features that are not competitive and this approach will expose those features.
-- [ ] You want to ensure the client understanding that Turbnomics does not do what other solution. Turbonomics provides trustworthy, automatable decisions to assure application performance. This is important and nobody else can do it.
+- [X] You want to ensure the client understanding that Turbnomics does not do what other solution. Turbonomics provides trustworthy, automatable decisions to assure application performance. This is important and nobody else can do it.
 - [ ] Because comparisons will show that other vendors also add value.
 - [ ] You want to try and avoid competitive bake-offs because they are time consuming and slow down deals.
 
@@ -157,20 +157,20 @@
 - [ ] Application Supply Chain is the DevOps pipeline used by clients to deliver new versions of the application to production.
 - [ ] This term describes the sales channel for delivering Turbonomic ARM to clients.
 - [ ] Application Supply Chain refers to a type of business application that can be managed by Turbonomic ARM.
-- [ ] Application Supply Chain describes a graph showing the relationship between a business application and its components and services and all layers of the underlying infrastructure that provides resources for the application.
+- [X] Application Supply Chain describes a graph showing the relationship between a business application and its components and services and all layers of the underlying infrastructure that provides resources for the application.
 
 #### Q24. While presenting to a client, you describe how Turbonomic ARM helps avoid congestions. Someone asks "What do you mean by congestion, could you please explain?" You should answer that this term describes the situation, where
 
 - [ ] Application CPU and memory usage are too high.
 - [ ] The client has too many application containers.
 - [ ] Application response time is too low.
-- [ ] Cumulated demand for any specific shared resource exceeds available supply.
+- [X] Cumulated demand for any specific shared resource exceeds available supply.
 
 #### Q25. Which of the following is NOT a typical challenge that clients are faced with while trying to assure the performance of modern applications?
 
 - [ ] There are siloed teams using different tools to manage different infrastructure layers.
 - [ ] Performance monitoring tools are used to find the source of the problem after it already occurred.
-- [ ] Application containers are volatile so there are no logs to look for errors.
+- [X] Application containers are volatile so there are no logs to look for errors.
 - [ ] Application teams lack visibility into underlaying infrastructure.
 
 
