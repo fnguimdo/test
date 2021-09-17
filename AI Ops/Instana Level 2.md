@@ -134,16 +134,16 @@
 #### Q20. You're explaining to a client how a true enterprise observability platform like Instana helps mitigate risk, they stop you and request more details. You tell them that Instana can mitigate risk because it ...
  
 - [ ] Removes application inter-dependencies 
-- [ ] Provides proactive, actionable, realtime visibility of a customer’s applications
-- [ ] Provides full sampling
-- [ ] Has no gaps in visibility of applications including legacy applications
+- [X] Provides proactive, actionable, realtime visibility of a customer’s applications
+- [ ] Provides full sampling `X`
+- [ ] Has no gaps in visibility of applications including legacy applications `X`
 
 #### Q21. You are working with a business partner that's new to selling Instana and going over its licensing so the partner can prepare the bid process. To confirm their understanding of Instana licensing, they send you an email with the following points around their understanding of how Instana licensing works when connecting to existing monitoring tools. Which of the following IS NOT true?
  
 - [ ] When clients deploy Instana native agents/sensors to the server monitored with other tools, they must acquire Instana entitlement
-- [ ] If log aggregator tools (like Humio, ELK, Splunk) are integrated with Instana, the servers sending the logs have to be licensed with Instana even if there is no Instana agent installed
+- [X] If log aggregator tools (like Humio, ELK, Splunk) are integrated with Instana, the servers sending the logs have to be licensed with Instana even if there is no Instana agent installed
 - [ ] An Instana per-server license is required if the client wants to enrich that data with Instana APM capabilities
-- [ ] With a minimum order of 50 APM licenses, clients can use the bridge that allows metric data from existing monitoring tools
+- [ ] With a minimum order of 50 APM licenses, clients can use the bridge that allows metric data from existing monitoring tools `X`
 
 #### Q22. When you hear the word "cloud-native application stack" ... what does that mean?
  
