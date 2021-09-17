@@ -120,9 +120,9 @@
 #### Q18. You're engaging with a client for the data fabric for Customer 360 use case. Their marketing team is developing a data-driven strategy to support their campaigns, and they are looking to target highly customized ads based on current 360 degree views of their existing customers. Which one of the following sets of Cloud Pak for Data capabilities should you propose in a solution for your client?
 
 - [ ] Watson Knowledge Catalog, Match 360, Data Replication
-- [ ] Watson Knowledge Catalog, Match 360, Master Data Management
+- [X] Watson Knowledge Catalog, Match 360, Master Data Management
 - [ ] Watson Knowledge Catalog, Match 360, Watson Studio
-- [X] Watson Knowledge Catalog, Match 360, Cognos Analytics
+- [ ] Watson Knowledge Catalog, Match 360, Cognos Analytics
 
 #### Q19. The world is flooded with data; the amount collected day-to-day is increasing exponentially. What is a common struggle for clients when it comes to their data?
 
