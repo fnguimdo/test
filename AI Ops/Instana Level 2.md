@@ -156,12 +156,12 @@
  
 - [ ] Quicker resolution of production incidents, improved application availability and increased operational efficiency
 - [ ] Correlation, analysis and troubleshooting
-- [ ] Automation, context and intelligent action
+- [X] Automation, context and intelligent action
 - [ ] Machine learning, troubleshooting and incident reporting
 
 #### Q24. You are responding to a request for proposal (RFP) and working on a section that talks about log ingestion. Which of the following statements is TRUE about Instana's ability to ingest logs?
  
-- [ ] Instana's log data includes log analysis and filtering within the Unbounded Analytics engine along with metrics, traces, profiles, and end user data
+- [X] Instana's log data includes log analysis and filtering within the Unbounded Analytics engine along with metrics, traces, profiles, and end user data
 - [ ] Instana doesn't need to ingest log data because its sensors and agents get all the data needed to understand and solve problems
 - [ ] You can integrate Instana with a log analysis partner such as Coralogix or Humio to get access to log data and analysis
 - [ ] Instana collects all the log data, but the data is not available to users as they don't need to see it or use it
