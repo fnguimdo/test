@@ -1,13 +1,13 @@
 #### Q1. Why is the Instana knowledge base so important to customers?
  
 - [ ] It enables Instana to benchmark service call latency against curated industry statistics.
-- [ ] It enables Instana to provide constant proactive automated health monitoring using a curated knowledge base of health signatures for 250+ technologies. `~`
+- [X] It enables Instana to provide constant proactive automated health monitoring using a curated knowledge base of health signatures for 250+ technologies. 
 - [ ] It provides customers with instant information for troubleshooting well-known technical issues across applications, infrastructure, and services.
 - [ ] It provides a curated set of smart alerts that enable customers to have out-of-the-box performance dashboards for applications, infrastructure, and services.
 
 #### Q2. Which of the following is NOT a valid reason to fill out either a SaaS Provisioning Form or the on-premises License Key form?
  
-- [ ] Because a Tenant Name and Tenant Unit Name(s) are required to set up the customer's monitoring environment for a SaaS subscription
+- [ ] Because a Tenant Name and Tenant Unit Name(s) are required to set up the customer's monitoring environment for a SaaS subscription `X`
 - [ ] Because a Tenant Name and Tenant Unit Name(s) are used to create a unique license activation key for an on-premises subscription license
 - [ ] To allow a trade-up from legacy IBM monitoring tools for a SaaS subscription
 - [ ] The Seller's name and contact information is needed so that the Project Office can reach out if there are issues provisioning the SaaS subscription or creating the on-premises License activation key
