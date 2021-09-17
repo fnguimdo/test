@@ -1,7 +1,7 @@
 #### Q1. Which one of the following IBM data fabric solution services provides the capability to produce and deliver a knowledge graph of information that spans all data sources across an organization?
 
 - [ ] Automated Data Privacy
-- [ ] Data Virtualization
+- [ ] Data Virtualization `X`
 - [ ] Watson Knowledge Catalog
 - [ ] AutoAI
 
