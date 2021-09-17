@@ -8,16 +8,16 @@
 #### Q2. Which of the following is NOT a valid reason to fill out either a SaaS Provisioning Form or the on-premises License Key form?
  
 - [ ] Because a Tenant Name and Tenant Unit Name(s) are required to set up the customer's monitoring environment for a SaaS subscription `X`
-- [ ] Because a Tenant Name and Tenant Unit Name(s) are used to create a unique license activation key for an on-premises subscription license
-- [ ] To allow a trade-up from legacy IBM monitoring tools for a SaaS subscription
-- [ ] The Seller's name and contact information is needed so that the Project Office can reach out if there are issues provisioning the SaaS subscription or creating the on-premises License activation key
+- [ ] Because a Tenant Name and Tenant Unit Name(s) are used to create a unique license activation key for an on-premises subscription license `X`
+- [X] To allow a trade-up from legacy IBM monitoring tools for a SaaS subscription
+- [ ] The Seller's name and contact information is needed so that the Project Office can reach out if there are issues provisioning the SaaS subscription or creating the on-premises License activation key `X`
 
 #### Q3. What are the three unique differentiators of Instana?
  
-- [ ] Data sampling, automated incident resolution, hybrid cloud support
+- [ ] Data sampling, automated incident resolution, hybrid cloud support `X`
 - [ ] Mitigating risk, securing revenue, increasing efficiency
-- [ ] Data fidelity, continuous automated discovery, predictable pricing
-- [ ] Agent-less tracing, automated actions, dynamic dashboards
+- [X] Data fidelity, continuous automated discovery, predictable pricing
+- [ ] Agent-less tracing, automated actions, dynamic dashboards `X`
 
 #### Q4. You're preparing to talk to a client that you know is on a transformational journey to cloud-native application development. They have lots of legacy applications built in a monolithic manner with their own monitoring and observability tooling. You need this client to understand how things change from an observability perspective with modernized application development. What is the main point you want to get across?
 
