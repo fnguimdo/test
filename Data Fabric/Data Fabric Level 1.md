@@ -2,71 +2,71 @@
 
 - [ ] Automated Data Privacy
 - [ ] Data Virtualization `X`
-- [ ] Watson Knowledge Catalog
-- [ ] AutoAI
+- [X] Watson Knowledge Catalog
+- [ ] AutoAI `X`
 
 #### Q2. Data fabric for data hubs is a good use case for clients looking to start small as they begin building their data fabric. Which one of the following sets of Cloud Pak for Data capabilities should you propose in a data fabric for data hubs solution for your client?
 
 - [ ] Watson Knowledge Catalog, Data Virtualization, Master Data Management
 - [ ] Watson Knowledge Catalog, Data Virtualization, Data Replication
-- [ ] Watson Knowledge Catalog, Data Virtualization, Db2 Warehouse
-- [ ] Watson Knowledge Catalog, Data Virtualization, Match 360
+- [X] Watson Knowledge Catalog, Data Virtualization, Db2 Warehouse
+- [ ] Watson Knowledge Catalog, Data Virtualization, Match 360 `X`
 
 #### Q3. Your client is committed to building a data fabric solution, where the primary goal is to enable self-service exploration of data and visibility of relationships and connections between data assets. In your conversations with their Chief Data Office leaders, it's become clear they are using the "data fabric" term in a manner that doesn't factor in data integration, data cleansing, or orchestration. Which one of the following competitors has your client likely been talking to?
 
-- [ ] Databricks
+- [ ] Databricks `X`
 - [ ] Cloudera
 - [ ] Google
-- [ ] Collibra
+- [X] Collibra
 
 #### Q4. You are reviewing the benefits of a data fabric solution with a financial services client that's looking to enable more agile data-driven decision making for their analysts, where they want to facilitate a culture of self-service data analytics. However, they are intimidated by regulatory oversight requirements around any decision support systems. What key benefit of a data fabric solution should you emphasize for this client?
 
-- [ ] Augmented Knowledge: A unified view of metadata that provides a common business understanding of the data
-- [ ] Lineage: supports audit-ability of data products and reuse and customization
-- [ ] Intelligent integration: automates data engineering tasks and augments data integration across hybrid cloud resources
+- [ ] Augmented Knowledge: A unified view of metadata that provides a common business understanding of the data `X`
+- [X] Lineage: supports audit-ability of data products and reuse and customization
+- [ ] Intelligent integration: automates data engineering tasks and augments data integration across hybrid cloud resources `X`
 - [ ] Knowledge insights: enables self-service for easy end user data consumption and collaboration
 
 #### Q5. Data architecture complexities add a time-consuming burden on data consumers as they try to get what they need ready for high-value analytics and AI. What percentage of a data consumer's time is typically spent searching, understanding, and preparing data before they can actually use it for analytics?
 
-- [ ] 60%
-- [ ] 70%
-- [ ] 80%
+- [ ] 60% `X`
+- [ ] 70% `X`
+- [X] 80%
 - [ ] 90%
 
 #### Q6. You have a client that has multiple regional data lakes to support local analytics work. They also have a need for cross-region analytics, so they built an expensive and complex data replication scheme to exchange data between the regional data lakes. A data fabric solution can eliminate most of the replication when it comes to enabling business users to analyze data from multiple regions. What capability in Cloud Pak for Data enables users to query data from data lakes in different regions?
 
 - [ ] Data Replication
-- [ ] Watson Studio
-- [ ] Data Virtualization
+- [ ] Watson Studio `X`
+- [X] Data Virtualization
 - [ ] Master Data Management
 
 #### Q7. You're meeting with a client who is interested in IBM's data fabric vision, but has no IBM software and is using the Azure public cloud service. They are not interested in leaving Azure, and also do not want to disrupt their existing analytics applications by moving from their currently used database and integration software. Which one of the following Cloud Pak for Data architectures do you recommend to this client?
 
-- [ ] Cloud Pak for Data running on the Azure Red Hat OpenShift service, and configured to integrate with the databases and integration services on Azure
+- [X] Cloud Pak for Data running on the Azure Red Hat OpenShift service, and configured to integrate with the databases and integration services on Azure
 - [ ] Cloud Pak for Data running on the Azure Kubernetes Service, and configured to integrate with the Azure databases, but needing to use DataStage
 - [ ] Cloud Pak for Data as a Service on IBM Cloud, but cataloging data from the Azure cloud
 - [ ] Cloud Pak for Data running natively as a collection of as a service (aaS) data management services on the Azure cloud
 
 #### Q8. There are five essential elements that must be present in a proper data fabric architecture. What essential element is the heart of the data fabric architecture that ties all the elements together?
 
-- [ ] Augmented knowledge
+- [X] Augmented knowledge
 - [ ] Unified lifecycle
 - [ ] Self-service
-- [ ] Data privacy
+- [ ] Data privacy `X`
 
 #### Q9. You are engaging with a client where the IT department and line of business teams have agreed to work together to facilitate a data fabric solution for a self-service data pipeline. Which one of the following data fabric use cases is appropriate for this business need?
 
 - [ ] Data fabric for data hubs
 - [ ] Data fabric for data exploration
 - [ ] Data fabric for data modeling
-- [ ] Data fabric for end-to-end DataOps
+- [X] Data fabric for end-to-end DataOps
 
 #### Q10. There has been a steady evolution in the best practices organizations use to analyze their data. Why is there a need for a data fabric in addition to data lakes, data warehouses, and databases?
 
-- [ ] A data fabric eliminates the need for other technologies
-- [ ] A data fabric creates more data silos
-- [ ] A data fabric creates less data silos
-- [ ] A data fabric creates a consistent view of data across all sources
+- [ ] A data fabric eliminates the need for other technologies `X`
+- [X] A data fabric creates more data silos 
+- [ ] A data fabric creates less data silos`X`
+- [ ] A data fabric creates a consistent view of data across all sources `X`
 
 #### Q11. What key technology of IBM's data fabric solution delivers semantic enrichment and understanding of business-ready data?
 
